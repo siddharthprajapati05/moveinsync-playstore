@@ -12,7 +12,7 @@ dashboard, and adding the link to the README and the PDF. That takes about 15 mi
 - `.env` holds the Gemini API key. It is gitignored and **must never be committed**. You don't need it
   for publishing.
 
-## 1. Push to GitHub
+## 1. Push to GitHub .
 
 ```bash
 cd ~/Documents/moveinsync-playstore

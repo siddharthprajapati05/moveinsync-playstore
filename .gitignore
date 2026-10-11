@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Testing cache
+.pytest_cache/
+
+# IDE / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Gemini / Superpowers auto-generated files (not part of the project)
+.superpowers/
+docs/superpowers/
+
+# Generated HTML (PDF intermediate)
+report/*.html
+
+# OS files
+Thumbs.db

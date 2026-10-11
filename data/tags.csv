@@ -1,0 +1,1301 @@
+reviewId,theme,severity,issue
+40363b38-fa55-4571-af0f-ff6fb0463015,other,1,worst app
+60798e45-939e-4a99-8f5b-17383a891db6,app_bugs_crash,3,app fails to open after updates requiring frequent reinstallation
+7476b129-f0da-458e-8f86-d77ba2f9a710,routing,2,extremely inefficient routing and highly inaccurate ETA
+f9fce9fe-8115-4a30-8d09-d8bdac76837d,app_bugs_crash,1,forced to rate rides with no skip option
+6b0ec80a-f39e-4548-85a7-cefd18c99c83,app_bugs_crash,1,recent app update made it worse
+2ce14584-824f-4d19-a7ce-95a17656fc8f,tracking_eta,2,inaccurate ETA and unreliable car tracking
+5f781610-319a-4412-b308-95a6ec8ee6f6,other,1,"dislike new update UI, prefers older version"
+387a67a5-1843-45ee-b837-91d7eb1fccce,booking_fails,2,books without informing if user is on waitlist
+225d87f1-5d2f-4d23-ac26-ecda35211579,support_unresolved,1,unhelpful transport management and support team
+3a411c1e-a2cd-4d87-83d6-e89e9f76460d,other,1,new features are very confusing
+5a892b9d-a4d4-4ead-b699-c98f71a94d57,other,1,bad app experience
+61a4a85f-902d-4e2c-beff-9ff5850a16b7,tracking_eta,2,cannot track van location under an hour
+72e74b90-1da1-49cc-87c0-6bc42af65ba3,login_otp,2,app automatically logs out every time
+43d90b3c-0443-4073-8647-6aee98c78bd4,notifications,1,incorrect push notification claiming trip is not booked
+f603466c-c648-4802-94e4-44f2c9916d32,login_otp,3,app is not sending OTP
+bc736dc0-8fd1-45e8-b39e-b16020a4e2f7,app_bugs_crash,2,"notifications broken, driver number hidden, constant policy popups"
+823b9c8b-afde-47e7-abad-fb60f14ea562,booking_fails,3,app gets stuck and unable to schedule rides
+e0d68839-6e59-4dd7-8f00-052cda79a063,login_otp,3,login OTP not sent
+527ddedf-47fb-452b-95f9-c968896d1aaf,praise,1,none
+e735e280-9992-470e-b8df-d9b4a0e1e214,app_bugs_crash,3,app crashes instantly on open
+98db1b19-26e2-4e6d-937b-7319944a6fc0,driver_behaviour,2,drivers are rude and support is unhelpful
+724fa773-e6c0-47ec-b76d-8c5ae25850ed,cab_late_noshow,3,"cab not assigned an hour after scheduled time, support unresponsive"
+66e6cdc7-e911-4b93-82c7-01d7f9420284,routing,1,worst mapping
+e12ed49a-d376-4cf2-9cfd-45cae0162feb,login_otp,2,OTP hidden behind seatbelt check and no offline ride cache
+210e4ab0-822c-4248-9e16-297d736f8fe0,other,1,worst experience
+85146e08-4f64-4ea2-9541-7a3d22af578e,app_bugs_crash,1,no feedback option for routing and journey
+852dfa4f-b414-4559-ae8d-5cc955fe97db,app_bugs_crash,3,app stopped working on OnePlus 12
+7781ccc3-e390-49cb-b574-fb3213c2e74a,app_bugs_crash,3,app crashes on open on Pixel 8 Android 17
+3abb674f-e2b3-41d7-8439-772cfb23cd27,app_bugs_crash,3,app shows error and does not work
+0def625f-f0c8-4d3a-859d-4891c82c80ab,app_bugs_crash,3,app keeps crashing due to a bug
+9936bf10-67dd-4e3e-aeb3-2bc420fb487a,app_bugs_crash,3,app crashes on Vivo V25 Pro
+85082941-1df5-4350-91cf-983886fbb10a,other,1,worst transport service
+e64560af-5a09-4910-86bf-fdc689ab6bc1,app_bugs_crash,1,cannot type in built-in feedback text box
+a0ca92c8-e8ae-448b-81e6-5e4102107c94,app_bugs_crash,3,app not opening or working
+ef2acf20-b61f-4d2a-ba57-23d5206d418b,app_bugs_crash,3,"app fails to open after a few days, requires reinstallation"
+1d73eadd-7250-425f-9cbe-c906414e5049,login_otp,3,"OTP not received, unable to log in"
+88fa8703-20ab-4e8f-ab4d-07f59f254952,cab_late_noshow,2,cabs not assigned on time
+8b0735a9-bd5e-453a-b1c8-81f741153ef2,app_bugs_crash,1,app slow after update
+eb176d64-81d0-447f-884f-fa7e1fa5e860,other,1,pathetic application
+7a707363-5c87-4607-a969-c1145075c724,praise,1,none
+7e2ab2b0-6370-4a94-81f6-36182d8a9ccc,other,1,rubbish application
+80fb6601-efa8-460c-903d-2835315a4322,app_bugs_crash,3,app does not open
+9aa5b917-0428-41c6-a7af-9be2e4cde043,other,1,worst app
+e2aa92a6-7a35-4f92-8d57-edfdf74799b8,other,1,worst app and experience
+abf9ce53-a36d-4897-9fad-031610d57d88,other,1,disappointment
+cb59dae2-185b-491b-b075-4042f4908825,other,1,bad
+05721a7c-55c6-4988-aad4-294192414118,cab_late_noshow,2,scheduled cab always more than an hour late
+4f55dc55-8f92-49fa-95c0-9b9a12934888,app_bugs_crash,3,fake not downloaded from Play Store error requires frequent reinstallation
+c4c982a7-763c-4e2b-889a-17109a961dc7,app_bugs_crash,1,no option to skip rating
+bb8bc95d-2aca-4ea1-8ec2-a6f74f5de33f,notifications,1,forced to enable notifications
+11da949e-d57d-4f25-b876-cf9a96bed7ac,app_bugs_crash,2,app bugs constantly
+145e34ef-5530-438b-bb8b-9dff2aed6e90,app_bugs_crash,3,app crashes every twenty days
+fe44d5ef-c3aa-44f7-9762-7173c2ad97e6,other,1,poor app
+dc194232-5824-46a2-ae7e-055e657105ed,other,1,poor app
+29869433-ee7b-46d7-bd21-b374b7dd8406,other,1,not a good app
+1d7aa4a5-419d-42f4-8be5-d9096c09746d,support_unresolved,2,unable to connect with helpdesk
+dba61dc5-b7e3-482a-a596-5be145a9e1e4,notifications,1,spammy repeated popups for cab delay notifications
+bd2d3dd2-2098-443e-8594-cd31210aa22b,app_bugs_crash,3,"blank screen on Android 17, frequent reinstalls needed"
+0fddfa5e-4c05-4aee-9412-1a44d52a9f1c,tracking_eta,2,map freezes causing delays and lacks arrival timer
+fb887543-7a35-42b3-9490-f61c28b841d9,driver_behaviour,2,"drivers are rude, disrespectful, and abusive"
+1239e342-ffd6-4a27-b815-54f7f3711b06,routing,2,long routes take over two hours and helpdesk line disconnects
+907f3c80-e25a-4702-8fdd-33e0e538f88b,other,1,waste
+82341476-c4db-46e0-86f1-670fe93b74ca,routing,2,stupid pickup locations assigned
+7a6441a0-2383-4dd7-83f7-8d54c4af8111,tracking_eta,2,"live tracking and boarding fail, cab arrives unexpectedly"
+c9c2d1f3-da5a-457f-b3cd-479afddacd8a,login_otp,3,logged out automatically and no OTP received to log in
+e6077207-c5c0-4521-8a4e-ee00d18263aa,other,1,unprofessional cab management services
+3090c84f-7a5e-4041-b578-2090f3a70536,praise,1,none
+ac05786a-a047-40b3-8174-d8434282ad60,booking_fails,2,restrictive booking cutoffs and driver does not call
+d6cbf0b5-c7e3-4474-8a61-6a65d98ba8cf,login_otp,3,"unable to login, mobile and email OTP not working"
+0bd62eff-171a-49ee-b384-3e468d20094e,other,1,worst app and team
+efd234c0-5557-4143-b7e4-f850b2da668e,driver_behaviour,2,driver does not wait even ten minutes
+2211ba73-2abc-4b42-8664-6f77105ff11b,tracking_eta,2,cab tracker does not update on time
+0e4dbe76-d1d1-49f2-8f4b-e608c076e7c1,routing,2,worst routing location
+edf9c82f-f269-4a7a-a3b4-a6342ea5afc3,app_bugs_crash,1,no option to rate trips or give feedback
+d0013885-22ce-4c15-b188-eb1b58d912d3,login_otp,3,"does not send OTP via email, text, or WhatsApp"
+2767a152-7aaa-4a0e-904c-1d620a20052f,notifications,2,incorrect arrival notifications sent before vehicle reaches
+a2233738-7d08-4cfc-9f30-3756b03c91c6,support_unresolved,2,no option to contact helpdesk
+225443f9-4d69-4543-bb85-6c04f9f9a28a,other,1,worst service and app
+19c6de5d-efbf-4f17-b143-fd1f3c48ac48,login_otp,3,unable to access app because OTP is not received
+73674f3d-0411-4948-b335-e3c379e3ba59,login_otp,3,fails to verify phone number or email
+90c5e4ac-a4cd-41a0-b791-0afd21073740,login_otp,3,OTP not received on mobile or WhatsApp
+c8818d4d-e060-4f33-8025-07cd16bded1c,app_bugs_crash,3,"app does not work on mobile data, only on Wi-Fi"
+5b8a7608-5d55-47f7-a262-6872ef125240,booking_fails,3,unable to book cabs and support does not help
+d385448a-e035-4a20-a220-aad62186e061,other,1,worst app ever
+2b1d5a87-3cdf-44c9-9e75-54abae6ae991,app_bugs_crash,3,blank screen every time app is opened
+46d3b709-e3eb-4be3-a5af-50868cfc215a,other,1,UI needs simplification
+da4ad9ad-acbe-4600-8d32-46883fab9fdd,app_bugs_crash,2,seat allocation disappears from bookings due to bug
+f01b63b7-917d-477d-9b44-cbae0f383bae,app_bugs_crash,2,loads booking info very slowly
+8018129f-9ca4-4d16-8b16-575d62c5f6b2,support_unresolved,2,helpdesk unreachable and no option for adhoc booking
+2964c65f-3c5f-4e55-9816-0db634fae32d,other,1,bad service and transport management
+864d85ff-1c4e-4967-a488-1b1225a406f7,routing,2,worst routing and app takes forever to load
+67cc8690-4382-4891-89cc-8bc50a5eb386,app_bugs_crash,3,app keeps crashing
+85646808-3624-479f-8724-72f2f6461b4d,cab_late_noshow,2,support does not answer calls and vehicle allocation fails
+397df87d-f01f-4486-8218-064d93f1679f,routing,2,terrible routing turns forty-minute commute into two and half hours
+25656a47-c872-4e03-baa7-861134241f1f,app_bugs_crash,2,app hangs for unknown reasons and lacks feedback option
+155c8dd0-561d-433d-b9b9-7d0a3751e451,other,1,worst transportation app
+99a6f069-b1a1-4810-9377-c80b50b6d01c,cab_late_noshow,2,cabs always late and tracking unavailable
+c789c25d-4efe-4fd4-8986-de67be5beeba,driver_behaviour,3,driver misbehaved with female employee and dropped before location
+73ba1ed6-a1f0-4f10-916b-84bec17ced7e,other,1,worst service provider
+6cd34a09-fc56-4cdc-88e4-3207678aa833,booking_fails,3,unable to book cab
+2b5b4c19-7f15-4e3a-907a-8ed47e7daf82,other,1,"terrible and poor service, cares only about money"
+714eb4f9-7828-4af2-a2a8-0d690feffa59,app_bugs_crash,1,always keeps asking for rating
+83accd38-8f36-4604-8d48-7f1064ff7782,routing,2,bad pickup drop locations and cab arrived 40 minutes late
+d90a3c31-8385-4613-b575-85002f768a9b,routing,2,pickups from same building scheduled separately causing long cab wait
+4e1b5eb0-ed79-4970-bc7c-8968c1379619,routing,2,wasting 3 hours daily due to inefficient cab services
+81c1530f-e7fd-40c9-866a-49d248c31c28,app_bugs_crash,1,app is running and loading slowly
+79708a81-7362-4207-be30-f7817b66eb16,tracking_eta,2,driver arrival ETA suddenly jumps from 5 to 30 mins
+c7389c6d-0164-4499-a896-485b66516a22,app_bugs_crash,2,calling permission disabled error shown
+f5890267-a88c-4c91-a588-439ca31ef0bf,safety_sos,3,"no customer support, safety concerns and worst drivers"
+7e94a761-56b3-43c0-8193-89cb1ed5adcd,cab_late_noshow,2,cab schedules arrival 1.5 hours before shift starts
+017f9b49-9dfd-4bd8-96d6-cd3ba770e552,other,1,too bad service
+f61b87be-2625-4997-88c2-421a89dd01fe,support_unresolved,2,help desk and vendors not helpful and ignore concerns
+ed3e271f-cdd0-48b5-8601-159d9c4de8fc,tracking_eta,2,cab location always wrong and late message alerts
+b0bfdf1c-0857-4cf2-9064-fa7c5fc3c3cd,app_bugs_crash,2,app crashes whenever tracking option is clicked
+026f59c9-7c13-4841-bba0-b4f9c3c5857b,other,1,bad service
+f9bd1ac7-1f27-43b2-b91b-c36c53390057,other,1,app should be available on Huawei devices
+2109668e-b908-4604-a7c0-dc526e27ea9e,driver_behaviour,2,drivers do not know how to behave with employees
+c8dd8ff6-e11d-4820-801f-67e4055ac1bc,routing,2,terrible routing chooses wrong and longer routes
+4d7a32f4-4eb1-4fff-bde9-b569d8484916,other,1,worst experience using the service
+5d8b03fa-d0d1-42c6-9ecc-aa92a8c1d0f1,tracking_eta,2,app is not updated on time
+fdf12a9d-6be8-4631-8a8c-8bda542aa022,login_otp,3,unable to login at once
+03b568c0-1a3b-4ac4-8b93-5b883882a26a,tracking_eta,2,shows completely different location than updated pickup location
+2bdc519f-5771-4a49-bee2-4ab1b4497ce1,app_bugs_crash,3,app does not function
+12aed373-a245-4d39-9a5c-f57839b6dcce,other,1,worst application
+8d06b861-b7d5-4530-9261-df8362e2df86,app_bugs_crash,3,app does not open and always gets stuck
+e381c775-7ce2-4e70-8f69-3c036a1f930f,booking_fails,3,unable to book cab and calendar not visible
+e1d0d2ae-e409-46f3-9683-0588d14e7d42,other,1,scripted useless app
+74af5ef8-abac-458b-97c7-364f06c960c6,other,1,worst app
+a1e5d1c8-5b4f-46d3-a313-2070b7675515,other,1,unjustified high app rating
+ccba873d-c5c1-4c86-808d-d0b5885f1113,tracking_eta,2,location shows one to two hours old inaccurate data
+3e08397b-6e7b-4b3e-8146-4a7c1f1c690f,app_bugs_crash,3,app does not launch after auto updates
+03f8b2a4-fbcd-4fb0-b755-afa3f7209436,routing,2,poor clubbing pairs passengers not on same route
+7eb737f8-071d-4fc9-aeda-3ceee47c1034,booking_fails,2,cannot change pickup or drop address
+84aa4e23-364f-4a20-a92c-ef64b2f1143b,booking_fails,2,confusing drop booking for team members after midnight
+87af9279-dcde-42bb-b21e-6af87d3d99b8,other,1,competitor app is more reliable
+97a529b2-c0ac-4531-9d73-484471fe75e1,login_otp,3,login issues
+ff2dcc55-ccd6-4830-9f9d-88f149db3dd6,app_bugs_crash,1,cannot see clubbed passengers assigned to cab
+c974e9a7-0937-4df2-9a93-16921d0a0b38,other,1,pathetic experience with the app
+687a9573-d6cb-4801-8578-7eb948c6a722,app_bugs_crash,3,app closes automatically within a second and OTP not received
+ab22d06f-a3be-49e3-a460-5ef157ec534c,safety_sos,3,unsafe for female employees and zero support
+3f781b95-26ee-4822-9cea-a9ea9056d3e6,app_bugs_crash,2,app not functioning properly due to bugs
+4adacbd5-81fc-4293-a08e-c9663b142535,other,1,worst app ever
+82470ef9-f10c-495c-8f65-b0f5acd0aca2,cab_late_noshow,2,pickup time scheduled too early
+401d832c-e10c-4b0c-bbdd-c02c718d47d3,cab_late_noshow,2,marked as no-show for no reason
+da70ae8d-1bae-4485-a660-7373b3a7a469,cab_late_noshow,2,cabs do not arrive on time
+5e41c6b5-feed-46fc-9dcc-9d7425010f0d,app_bugs_crash,1,horrible and unintuitive user interface
+da5acfbc-5084-4887-9276-88e04a9c8318,other,1,worst app
+5ac20968-6bad-4b53-9d1d-a0af6da248ed,app_bugs_crash,1,confusing app retains incorrect user preferences
+7dd834b0-8906-4e8d-88d8-bee85025334b,app_bugs_crash,3,false error saying app not installed from Play Store
+1f01f748-b40a-488d-914b-b3bcc99a2a6a,app_bugs_crash,1,forced mandatory microphone permission without in-app calling
+6cee5191-f6ea-44de-a4e3-a0fdb09e2034,other,1,completely unreliable app
+0941f657-db8a-4543-8835-c9d45bbc63fe,cab_late_noshow,2,getting 1 hour late daily due to bad management
+b6ec124e-28c6-44e1-9e9a-623a6f772d7a,app_bugs_crash,1,very slow app performance
+6d5c0ac6-0cf9-459d-9457-09939cb3fb9d,app_bugs_crash,3,app not opening shows install from play store error
+72b21544-5b6e-4ae8-b33e-1c641857b98f,safety_sos,3,driver marks female employee no show late night without calling
+28af5dc5-9cf3-4464-9004-dd45694cdd22,app_bugs_crash,3,app won't open error not installed from play store
+ccf0a018-422b-42c9-a994-16960d3d348e,other,1,not a reliable app
+8a05df9e-08c8-4b1c-badb-6faaeb2d0e1d,other,1,poor application quality
+05f57703-91a6-4801-ae93-339dee43008d,app_bugs_crash,3,facing installation issues
+f7329b75-30f3-4b4e-ba7e-16c58f3de279,tracking_eta,2,"nothing updates in real-time, app not user friendly"
+9fc3d772-0fa8-461f-bcaf-193c6e051c27,login_otp,3,unable to sign in
+a2606d7b-6689-4224-9481-829dab688779,other,1,one of the worst applications
+01a2771b-5f70-4893-b7ac-04116943221a,app_bugs_crash,1,app takes too long to load
+1b9de328-01d0-419d-be17-2f50535dfd47,booking_fails,2,application delays make cab booking difficult
+f0a85d8a-9017-4b66-a4d9-d00008a035d0,app_bugs_crash,2,app not working properly
+086afcac-ea8b-4371-9708-0af164b4a5bc,booking_fails,2,cannot search for employee while booking team cab
+155b972f-7663-4624-be7d-49d4cd126c41,login_otp,2,app requires frequent logins and waiting for OTP
+b3b64566-798f-42cc-b6a3-ff52e46a86c9,cab_late_noshow,3,cab never came waited 2 hours marked no-show
+e67b7faa-1b4e-4462-9a67-235d74a2af45,booking_fails,3,unable to book pickup for weeks and no support response
+3aa862df-73eb-4868-a695-42158aaced5e,routing,2,paired with people from different areas causing 2.5 hour commute
+caf37d59-c444-4d68-890f-08cd13771e69,booking_fails,3,unable to schedule pick up and drops
+7c4c4d35-5911-4ee1-aef4-8672e91f6c9c,app_bugs_crash,2,constantly facing app issues
+fd4e8200-294d-4877-b4f5-b1e12528ce8d,booking_fails,2,cannot book bus or scan QR without location accuracy
+760cc5ba-26c9-48c6-8e86-13fdb106d7e7,other,2,pathetic transport service provided today
+973a24d0-5aa3-4c41-9d83-d26b53bdda90,app_bugs_crash,3,opening app shows error not installed
+9f5985d8-632e-4c78-b2c2-14f05de44f96,cab_late_noshow,2,pickup time too early and fluctuates by 15-20 minutes daily
+e4e22fba-68aa-425a-8882-4e6392fc26ae,other,1,worst app ever seen
+a746d34e-0817-45f0-8443-79577a41a20a,app_bugs_crash,1,new UI changes are ghastly
+31c4a837-4503-42db-baa6-6857ff954f03,booking_fails,2,booking experience became worst after app update
+777cca04-24b9-42d6-8af9-29e1971e5a25,routing,2,app does not display drop route
+5a65342f-208a-4b60-a9b0-243be3617f8f,tracking_eta,2,shuttle live location tracking missing after update
+c1b25db9-7a1d-4467-aa00-14823e82fe2f,booking_fails,2,app freezes when booking cab during high traffic
+c0a638f7-13b2-4090-a93a-d2104065a717,other,1,worst app
+f13bfea9-81c3-4886-b8d5-94e4bfdec9d1,booking_fails,2,cab booking cancelled automatically by app
+c54819fe-e6f1-400f-81e4-d739ead14d7c,app_bugs_crash,3,app not working
+871cfeae-327c-4867-aedb-4b5817b39fc3,other,1,terrible app
+8d818e34-450b-40e5-b0a9-5dc92b6b0492,other,1,very poor service
+3c7dbf56-0d12-466a-a4de-d4c5452106b1,safety_sos,3,late driver forced pickup in dangerous location at night
+b6566e1a-4d36-4eb4-83d7-506fec1e1823,routing,1,app does not display fellow cab mates pickup locations
+bc7ef500-8552-43ed-9c08-86393f17dbe3,app_bugs_crash,1,driver rating is mandatory in new UX
+6663f7b1-7087-45e5-9320-c8a7fbfc6307,booking_fails,2,confusing new shuttle booking flow led to missed booking
+75ca7255-ab6c-418d-bc7f-6862d7ceee32,login_otp,3,app not working and not receiving OTP
+df539c86-3773-42ed-b11f-5f7a9a05ded6,app_bugs_crash,2,recent app update causes problems
+49265a73-bf3f-4930-8134-70d35d453621,other,1,worst app
+64f10d36-2386-4e04-9b4e-a35310f50aab,app_bugs_crash,1,app is very slow
+6a17c7e8-754b-4ff5-b36b-7f06b6e84fb9,other,1,worst app
+cdb0fe80-5aca-4f0e-b3e6-2f5585fba265,notifications,1,too many notifications for a single trip
+8000e4ad-b976-40f6-8e54-471b4f0d9388,app_bugs_crash,2,app not user friendly and features do not work
+511c1ff5-1b4a-4918-add7-8d90bbf43fdd,other,1,useless app
+43186954-9fdb-4b8d-99ce-490c819f59a9,notifications,1,unnecessary notifications even after trip completion
+c6b00b72-6eed-4083-8290-78a0c1f3b023,other,1,one of the worst app
+55544b53-92da-4cde-a3ff-ecc91ae04392,other,1,very poor app
+6c2c9546-09f9-460d-a61a-0fbe76078cd9,tracking_eta,2,slow GPS tracking and incorrect pickup and drop timings
+ae73eb81-37a6-4dba-b5a4-316b4bdc2bc8,other,1,worst app
+6fdfc545-cb81-48c5-93ee-38e46918c906,other,1,bakwaas
+028ff030-f768-44f9-ab4b-cd632defa30d,driver_behaviour,1,driver call audio is not clear
+d12b990a-28dd-4266-a994-4c63f3f1308a,app_bugs_crash,3,app not opening
+aacca54a-b743-4829-8868-79bf96ebed62,app_bugs_crash,1,very bad handling and usability
+c7d2fb3d-da87-413e-82ba-bb13c1349160,cab_late_noshow,2,inaccurate pickup and drop timings shown
+ed66ceda-ed87-4eec-b838-97a7b11aa91e,app_bugs_crash,1,cannot find pickup time on new app
+6e5d3497-9942-4dc6-8e6d-36a425c767c0,other,1,poor app maintenance and management
+3059c5c2-028f-4098-bdd3-c57fb23f87a2,other,1,poor synchronization
+25ec74bc-866a-4d79-9fae-228cdc5690d6,other,1,useless app
+7569516c-7aa2-44dd-9cc2-3f730fcc7750,cab_late_noshow,2,drivers mark no show arbitrarily and lack of logistics support
+56d0661d-1d09-4f7a-a7ba-f72339cbc2e7,other,1,worst app ever
+5d14e08b-ceb3-4849-8e3b-2b94f6f06a07,tracking_eta,2,driver location stuck in same place for 30 minutes
+7e184ad5-066a-4d36-b7a0-73a0a56bf8a3,notifications,1,request for smart notification reminder to check in
+69035a8e-3ccf-4c79-8178-0d848871b9aa,booking_fails,2,hard to search shuttle timings and cabs not allotted
+25e66ed8-a1f8-48c9-a726-0465003938b4,login_otp,3,"unable to get OTP via SMS, WhatsApp, or email"
+a2fa2beb-c4b4-4db5-9c4e-2f1950cfee79,other,1,complaint regarding new update
+40400046-7a3f-4096-a04c-ce01076b8be3,other,1,lacks QR scanning feature to board cab
+145945f0-2aa0-4377-a968-022fd372ebfe,booking_fails,2,unable to edit booking date after roster change
+ec513f95-d2c4-4eb6-a186-7b658221a805,booking_fails,2,unable to schedule booking
+0b1f3921-67f8-49fd-b329-f1fa6f3c615f,routing,2,app not taking exact home location for pickup
+a931c389-4223-4c5c-921e-4c22b4545467,app_bugs_crash,2,app not working most of the time
+fd99acd0-05e7-46e3-a90c-91bada1b560e,support_unresolved,1,waste support
+e6af0c44-e3be-47ae-a983-425e941815c5,app_bugs_crash,1,no calling option available
+22e2d05f-6d00-4c6d-8129-775797890892,other,1,too much bad poor
+76ce5941-ffa6-4581-bddc-f1d4162432ab,booking_fails,1,no edit options available
+640f589b-4b06-4e4c-a045-90280fd3316f,other,1,3rd class service
+4ea31605-cf5f-4a4a-b47f-3030f55143fa,routing,2,worst routing
+eca3c8b0-9d11-40fe-877d-1b1ce7d029ad,app_bugs_crash,2,never works and slow app
+f7df20ab-fe77-4454-9a07-55438ce28c6e,app_bugs_crash,2,app keeps hanging
+17b2d6dd-a6ac-4683-b5ac-e69ad1150f6e,tracking_eta,2,app continuously loading and cannot track trip details after update
+93f3c4e5-dc0d-4543-8568-16c9b40c9216,app_bugs_crash,2,app keeps loading even with good internet
+37e43024-606f-4bdc-a44d-ec24657de1e1,tracking_eta,2,shows error and cannot track cab location after trip started
+36701372-998b-4ff8-ba0a-9bb17b1daf50,tracking_eta,2,cannot change address and cannot track cab properly
+90bf938f-0b0e-4116-a5e7-07956b733b9d,app_bugs_crash,1,poor UI/UX and fresh disclaimer statement appears on every minimize
+3668eb36-579b-4fbf-ad0e-14f9ddc75a97,support_unresolved,1,help desk is always busy
+5abe2cac-b91b-4df6-902d-a4c36d5d84fd,cab_late_noshow,2,cab never assigned on time and 40+ minute waits daily
+f5347b3d-f7ab-405d-a482-bae26ecd5368,cab_late_noshow,2,pickup times change constantly and rude useless support
+32b8b1f5-83f8-4603-a599-89108ead489c,app_bugs_crash,1,multiple issues observed following recent updates
+d4e87ea5-b356-4cc5-a84b-7fe68e4bbd65,login_otp,3,unable to login
+0b11d7d5-f655-4951-855e-710761f2552e,booking_fails,3,books wrong dates and falsely reported as no show
+03a5111c-29a6-45df-873f-8a6d45b4723b,cab_late_noshow,2,cab allocation delayed on daily basis
+034dbcb2-962c-4a54-a7e0-ec0bf7e081de,other,1,worst app
+06562316-2eea-41f6-9bab-d2c64b8841fc,other,1,worst app and service
+f3c35365-e75f-456a-8c4c-bda5fee6e1bf,other,1,third class service
+01f30f3f-6bb0-4751-9bc4-013948a2e9c8,notifications,1,sends too many notifications
+c025c564-55e4-4c74-9741-f3577da10e2a,login_otp,3,logged out with web login error unable to book for week
+ad4d0479-e453-45fd-a5fc-9aed99bc2b46,login_otp,3,not receiving OTP for login via mail or phone
+00243521-f795-4f0b-9f57-a0908d43c51c,other,1,worst app ever
+3b8ea3b9-b52b-4c34-9b1f-cd7a8c93d7ff,routing,2,poor routing algorithm and gets logged out when network drops
+5cbe074d-ac59-4be3-8422-51aa229067a6,login_otp,2,frequent logouts and cannot login with phone number
+0de5b0b9-835e-4a7d-b4e6-842fd95deff2,booking_fails,2,cannot change destination for adhoc cabs
+f3bf5118-f310-4e20-9638-6bbfc5907b2a,other,1,worst app
+fbd502a7-e27b-4156-b373-9ae410e95633,support_unresolved,2,support did not help recover lost earbuds in cab
+56157c9c-eea4-44c3-b8c4-9b32577038a8,other,1,trash app
+1dd2a561-33a6-43c5-87cd-fda1cd5b87b2,login_otp,3,not sending OTP for last 30 minutes
+eec41d97-5ac6-4612-ad5d-625e9bbd6669,tracking_eta,2,inaccurate ETA and location not updated driver threatens no-show
+8d75b699-8d11-497c-8320-5e423f673127,app_bugs_crash,3,app does not open even with good internet
+0105bf34-d0aa-4f19-a09b-73abe018abfb,other,1,terrible application
+a27ef07a-974c-4976-bee8-d94eea908d18,other,1,worst application ever
+59a4dbdd-06a6-4ed1-8a2c-38d2509bb604,driver_behaviour,3,"drivers extremely rude, shouting, causing safety concerns"
+95b54f3d-183d-4b71-9ea8-425203003ec8,other,1,3rd class app
+479aea2a-9ed0-4180-a728-43beae429194,other,1,worst app
+2c127a73-afb1-48d2-9cc1-0d8208926cc2,login_otp,3,session expired unauthorised error and location search not working
+c158c05c-7985-49cd-bebb-1be703e0ca50,tracking_eta,2,"unreliable GPS, inaccurate ETA, and delayed notifications caused missed pickups"
+d7977ea6-6675-4e94-bcda-9e764e360072,login_otp,2,app keeps logging out
+b1e5c1f7-1ba1-46bf-98e9-4d6a63e63729,routing,2,worst clubbing algorithm
+5a704b27-2276-476c-bf2a-857e3424a942,other,1,worst travel date till date
+01ed829a-87be-47ed-b903-ad0b4a281419,support_unresolved,1,worst experience with helpline number sahayta
+8f4763d2-2c60-466a-a2cd-60bc021c9d59,other,1,worst
+3dd690b4-b55f-433c-8a86-1497f0ef0439,tracking_eta,2,pathetic real time tracking and OTP pin not working
+383fa10f-229c-43dd-bc1c-967cb8017a71,app_bugs_crash,3,"does not open, error not downloaded from play store"
+19af4753-275c-457a-a5e1-75b5acb199c1,other,1,this is pathetic
+fc885a07-c463-4533-963a-dd946830a4c8,cab_late_noshow,3,vendors do not provide cabs and zero customer support
+9eda9256-7bf8-4e8e-b04d-d48457555dc5,tracking_eta,2,cannot track properly due to driver connectivity error
+edd96d77-83f2-4a31-9a5e-b11c25b727a3,routing,2,showing wrong routes and high travel time compromising safety
+653476dd-469e-4f0b-a70a-2cc0461892d0,other,1,pathetic app
+7c531a36-89b6-4537-83d4-5b68acacf239,routing,2,worst routing
+1ae3d61b-64bd-4d51-9696-9d8d83bb477e,other,1,worst transportation ever
+2375fb59-d06d-4a2e-be28-d119bf666c7a,driver_behaviour,2,drivers are unprofessional and abusive towards employees
+43c9cb2d-bc33-4daa-adad-9b261af0be0e,login_otp,3,did not get OTP to login
+5bc657a3-db80-46bb-ac35-96215ede6b43,cab_late_noshow,2,pickup time and actual arrival time totally different
+954a0c46-3994-4e41-8363-0fb86158bfce,tracking_eta,2,terrible tracking and inaccurate ETA changes suddenly
+16d5202e-72e6-4717-b72f-d716f2a9f01d,login_otp,3,email OTP system not working and requires login everyday
+a472d4f3-eff0-4e31-ba8c-1aee9111c276,routing,2,incorrect routing and irresponsible unhelpful staff
+6d8df76c-1ac4-4b19-a36a-85ae8c0fff4b,app_bugs_crash,2,app not working sometimes
+b85527d2-ce5e-4829-896c-e776d1b236bf,other,1,suspicious excessive app permissions required
+f36f08c8-0dcd-467a-a9c8-c51cf4de86fe,other,1,worst
+a940fd97-5954-440d-9a82-aa54c5c3e170,other,1,the worst
+b92d01c5-c6f8-4687-8960-58262bf4037a,tracking_eta,2,no accurate tracking
+9a43eec8-6435-4987-84c5-58792ddbeeb4,safety_sos,3,"cab not scheduled at night, support unresponsive, female safety concern"
+8d64c7f3-7703-46d3-94c9-9860bab42597,app_bugs_crash,1,time consuming and not user friendly
+288dfb0e-070c-4b36-a624-f22cd76bc386,login_otp,3,not getting login OTP and support not responding
+e4c92f6c-f60a-454b-a3a3-881f9183ee12,support_unresolved,2,helpdesk line is not working
+83febdcb-c401-47b6-a777-1dce8024e327,other,1,worst service provider
+8e2f63e0-414d-4ff9-af80-04a467c2eaf4,cab_late_noshow,2,incorrect cab timings shown and complaints ignored
+ad4675c7-f8c5-45d4-931b-2b39127f26e9,support_unresolved,1,app does not allow submitting feedback
+80c64ba7-dbc7-4db8-a8e4-28ad02190295,tracking_eta,2,no real time tracking available
+a8332ba7-2975-4b0d-9c44-9cc2c467a598,other,1,app not supported on laptops
+da5d8525-bc55-4542-b73d-63ffa6b29927,driver_behaviour,2,in-app call audio not audible both ways
+27010cd9-d254-4692-ba81-30cd4b8797b2,tracking_eta,2,cab location not updating in app
+f45c5b5a-8e35-4eb3-810f-68cf9b992415,routing,2,maps longest route when pooling increases
+a62bb6b4-32d7-4036-b929-8617dcc298dc,cab_late_noshow,2,long waiting times due to insufficient cabs
+6d1fecd3-2215-4a2d-8f4e-33c9d3e52b60,notifications,1,missing drop-off notification feature
+c00bd3a2-c9c3-4890-9a81-9d9201e587a0,app_bugs_crash,3,app crashes every time
+0e5391a1-eb20-4eca-9fc0-e93e52d5a1ec,app_bugs_crash,2,QR scanner does not work
+d77b60f8-b879-46b4-b998-787ff91f45dd,booking_fails,2,cannot cancel or change waitlisted booking
+147d20c4-9196-4e45-8bdb-660d7af1fc5e,login_otp,3,OTP not sent in most cases
+21ccad62-b899-4f14-ab03-f0a7e41fddaf,other,1,worst app experience
+3490fce7-8ede-4d7d-aa3b-a90688824190,app_bugs_crash,3,app not working properly
+4e3e76f1-74dd-485b-9746-9af96470c140,login_otp,3,unable to log in
+838886b7-234c-4097-9658-776058041253,app_bugs_crash,3,frequent bugs and functions not working
+bba9c753-7846-480b-a166-1792c5e2d8cf,other,1,reminds user about office
+cd0fae07-d5b9-4095-8b2b-30558a07d736,other,1,forced to rate every trip without skip option
+af5a54a5-4fbd-44fd-9f75-dec103307339,routing,2,poor mapping and navigation features
+0ca0c9ff-1866-4935-8578-c26523feb62c,other,1,slow and lazy app
+b0d942c2-6bbe-4c1d-a158-9167965eda3d,booking_fails,2,booked schedules not showing and cannot cancel duplicate
+6dcbea8e-787b-4c8d-a1d1-a0bb7ded9121,login_otp,1,no fingerprint login or saved credentials
+70e2f901-4bb0-4159-b6bf-5a713b0e347d,other,1,poor overall app experience
+428e7d29-7a1e-4003-8725-900c4d3c827c,app_bugs_crash,3,app not working
+0a249389-1bc0-42db-9930-adabdfba1b63,support_unresolved,2,no support available to reach
+b11a2775-4760-4e57-857c-06bdf4e2e7d0,driver_behaviour,2,drivers very rude and inaccurate cab arrival time
+6855f79d-f54e-4ce7-9a7f-213677cec9d1,safety_sos,3,frequent logouts hinder sending urgent SOS alerts
+e986fc67-fb8a-4fcd-ad46-e61be84c965f,cab_late_noshow,2,poor time management and cab service
+f37d4dfa-0e42-4dd4-8ef9-2102bda7dafd,booking_fails,2,app automatically selects wrong date during booking
+ddbbdfde-e72f-4977-9a24-aa87fdc80490,other,1,no option to skip post-trip feedback
+2d6db443-45d2-4afd-bc5b-b9abe99b5d7d,login_otp,3,verification takes forever due to glitches
+512e0ed7-d435-4bd1-af9c-cda5ae1799fb,login_otp,2,frequent logouts and confusing AM PM selection
+2deeddaf-5b2f-4e42-8b9f-6d08a0057637,other,1,app and service not reliable
+c24e5c76-4302-4b08-bf7b-d93a43883ef7,cab_late_noshow,3,cabs cancelled without prior notice
+3ce37dfc-a214-453f-878b-9c3ffe327f35,support_unresolved,2,extremely poor customer support response
+b85a9305-8ed0-4c57-873b-3eaa297846ce,booking_fails,2,poor cab booking service
+cdb797f6-9ddf-49dc-aa78-bccec90a18a8,app_bugs_crash,3,shows no internet connection error on WiFi
+9c8db645-51ac-407d-820e-f180861db70e,login_otp,3,OTP not received via phone or email
+69059302-1a66-4066-b781-013157af3271,login_otp,3,login OTP never arrives
+fde3c41e-ceff-46a0-99d3-2b69c23e6ead,cab_late_noshow,2,pickup times updated in middle of night
+0b563830-cd9d-4d2f-bca5-d0b065523a38,app_bugs_crash,1,slow app and uncertain service
+7dbc2d40-51c0-4cee-befa-af906fb14044,login_otp,2,must login every time because app loads poorly
+cabdc55e-7cc9-476b-8798-94fee5d7ff0b,routing,1,no search feature to change address on map
+85c20463-9df9-4d3b-9980-18e34d1b7581,booking_fails,2,poor cab allocation and lack of response
+0f789813-0238-4a1c-8f95-c2d7b4a239bf,other,1,poor overall user experience
+1cafa2e1-8264-403d-97b8-3cb13e223320,notifications,1,persistent annoying notification banners on front page
+2c286181-c7af-4f86-a04d-c501c8d1eca9,other,1,horrible overall experience
+99983b23-5683-4f4f-8a05-ca5224e25ade,app_bugs_crash,1,app is very slow and bad
+bb602adb-f2a6-41fe-a0db-2e62afba8e34,app_bugs_crash,2,app keeps freezing and is slow
+c43e13cd-0b94-40a0-b3a2-d4c59b14f049,driver_behaviour,2,unstable schedules and driver not responding to calls
+dfa11ee1-cc0c-4ceb-b6c1-3eb17682712e,other,2,useless cab transport and app
+052f6e06-2a70-4531-b3b7-aa6bb393baeb,app_bugs_crash,1,frequent app updates required
+55998769-1d9e-41a7-8c66-46926437fae9,other,1,worst service
+c195ce64-3c8e-406c-b59c-8217a0eddc68,login_otp,3,cannot register due to OTP failure
+e43167eb-e2be-4396-960d-accb486f972c,app_bugs_crash,2,annoying popups block scheduling a ride
+0c49d8e8-4175-4621-bec3-84e82f85d03e,notifications,1,unnecessary spammy notifications all day
+b4579064-443e-4e37-9c50-3999e69794a4,booking_fails,2,waitlisted passengers not allowed to rebook
+ddf6157c-0dc9-443d-b9fd-3cbf4ebf19cf,app_bugs_crash,1,full screen banner blocks tracking and ride details
+6a1820a3-ce1c-45d1-8ff3-4134c0824acc,booking_fails,2,waitlisted passengers blocked from rebooking before cutoff
+5f0057d5-a0ba-4ee8-8a26-5f3025a3ebdc,other,1,poor transport service
+490639b9-df47-4486-985c-170673cfe038,support_unresolved,2,customer service calls kept getting routed to IVR
+c43c926f-14c9-4945-95eb-46665fa9565f,routing,2,poor clubbing of employees and bad support
+11a4900f-357a-4098-bda2-79ca881c4175,app_bugs_crash,3,app is unstable and not working
+11d99068-f4ec-422e-b2b5-8112b507ff58,app_bugs_crash,3,app keeps loading and does not work
+57cbaf15-e6aa-4fb5-bb89-07737777a6de,login_otp,3,OTP not arriving on phone whatsapp or email
+7db8a68d-ea44-4449-96c4-c1233f9fcdd6,login_otp,3,unable to login app fluctuates on open
+1df49039-cb6c-4f5c-89d5-a286ac4e2778,other,1,waste app
+73ea2f51-7136-4a65-93b5-024307323bb4,other,1,company management issue rather than app fault
+286a7f7c-ffcf-4c30-8fb6-8dbe9afe3cbc,login_otp,3,cannot verify account because OTP is not sent
+624de577-4ad3-4798-9f5b-1f8ae0b9f190,other,1,outdated and timewasting app
+05046927-7db6-4d69-97e2-6612f33b6d5a,routing,2,no pickup navigation and driver call support disabled
+47c8b1a4-8e38-485f-a218-bf694c976652,support_unresolved,2,helpdesk hangs up without resolving the issue
+daa27010-2c5f-4b85-8e31-a7d3b6a2acae,booking_fails,2,booked schedules not visible on empty schedules page
+1e907351-f6a6-4e7d-8a5a-b18e4943a762,other,1,waste app
+f3e0267c-9a75-4e06-8717-4c82042e245a,app_bugs_crash,3,app never works properly
+b6c9de41-88fb-4602-8915-4e1f2b612230,other,1,complicated application
+8774ab0c-e2d7-448d-b725-90ebe55d37b0,login_otp,2,boarding scan fails and check-in keeps loading
+b622d503-5db1-49c3-bcdd-dafdfe6b72a0,other,1,incapable transport team
+bfd6e482-8bb6-49b3-90e2-0320fad6eeba,cab_late_noshow,3,cabs 30 mins late or cancelled without waiting
+28444777-0ec6-4902-bb49-81e1af54b32b,routing,1,difficult to change and recognize location address
+4ff789f8-aeeb-4f50-b22c-ebbc5fa3c68d,app_bugs_crash,1,too many dropdowns and difficult navigation
+4cffdcf2-c19c-4563-b399-0812472c79fd,login_otp,3,app fails to load after login with error
+4cde1e1f-27f5-4a03-8eb8-92a6c65bb064,routing,2,worst nodal point facility and transport system
+f2b4effa-7366-4423-8c4d-fce3c0ed4647,app_bugs_crash,1,app incorrectly shows completed trip
+90d413fb-e6f8-434b-b8a5-85175f4f2e0d,booking_fails,2,booked schedules not showing on dashboard
+1cb5ed94-bd87-44ac-86eb-d645586520d3,cab_late_noshow,2,no option to call late or missing driver
+aa2bee12-d1f1-4440-b1aa-4afd6a30e511,other,1,worst app
+01b69a5a-3cd8-4493-bc04-073c899ecd83,cab_late_noshow,2,unfair pickup time shift to earlier hour
+3c4ec530-2458-4d85-9957-6a2bf791e4bb,cab_late_noshow,3,cab never showed up for pickup
+143b2601-703b-4782-ab4c-3c87f7f92754,login_otp,3,corporate authentication app not opening
+05c64636-6047-451a-b52e-01b350d5c256,other,1,worst app and company
+d32c6cd0-2203-428a-b2fd-f0b13202a108,other,1,worst app
+fd7c7bbc-c03c-438a-94da-a12f6328f7c5,login_otp,3,OTP not sent on any login option
+a89a3f7c-8ab4-4a5f-a7cf-f51060f10fce,app_bugs_crash,1,error messages truncated on Android
+51f5237e-a799-4e74-a557-1b26288101c6,other,1,not good
+42eeb5e1-90a5-402e-a0d8-6370af6e3f64,other,1,worst app
+c7172c8d-d1b7-4ac8-bb17-f402053eff8f,app_bugs_crash,2,constant app disconnection issues
+6b1a6566-06e4-4047-b7e8-fd9dbf051c86,other,1,worst app ever
+cc71a6f5-db41-481f-86a1-072e05af8503,other,1,horrible experience
+b7a9f26f-4ea3-4e81-b94b-87fa3c801a19,other,1,worst application
+25daa9dc-4be4-448b-9abe-aee13c20dc3f,login_otp,3,sign-in error when logging in with email
+e52012f4-4c66-48c9-a657-eb322988307d,other,1,pathetic transport service
+2e81c0ab-4922-4595-96fe-e11ece6549a3,other,1,worst app
+2bbbbf18-f4cf-46db-9874-ffc3771112b6,login_otp,3,OTP not generating while logging in with mobile number
+74f2adee-9e4d-42d3-99d3-bf5e613141fc,cab_late_noshow,2,pickup time variance over half an hour causes unpredictable mornings
+4043e952-1bfe-47d8-97b2-eebf64f272a9,routing,2,poor cab clubbing
+323f395e-0632-4d4c-9174-5df4d7828680,app_bugs_crash,2,mandatory rating popup blocks access to current ride details
+fc0aacfa-0f69-4059-a850-4fcc0c026973,app_bugs_crash,1,app does not allow rating trip with wrong routing
+cbd1a2d1-080c-4b9f-a54e-eb42ce163cc4,booking_fails,3,policy message repeatedly pops up and cab booking never works
+62d17444-27d3-40c1-8611-20374376ed25,other,1,worst app
+c44c1a75-b3f2-4b2f-807b-9c5c4c3ef962,app_bugs_crash,1,worst user interface and service
+310e295d-f489-4fe0-8f1c-6c4281063692,notifications,1,continuous annoying carbon saving notifications
+621b950f-f880-4c9f-9a7c-388929a2ec25,routing,2,drop sequence not recommended properly
+0b7d88b2-7487-423c-9267-33ccc1d6c9cb,other,1,worst app
+a2e65d72-1c3c-4e65-888d-f7f2c473b205,booking_fails,1,no AM or PM marker shown on booking info schedule
+a85de691-03a4-4c06-8d65-23b69e253b02,login_otp,3,missing registration option to log in
+f8e51328-7768-4dd9-8f10-8b11f79a956f,cab_late_noshow,2,cab still not assigned
+db1ef542-15d4-4989-aace-e552f234357b,login_otp,3,unable to log in OTP not received
+99cb0d80-b33a-4dbe-afa3-6110a61be83c,other,1,poor app
+66baad78-e91e-40c3-8bc4-64a1816e616f,booking_fails,3,unable to book company shuttle
+c4a72441-a37c-4a62-bf29-a16c780450a6,other,1,useless app
+5eb8d576-0c64-40fd-9224-57e0bb7b4b8d,other,1,useless app
+e9b11b96-0d27-4459-9695-c98c5a679707,support_unresolved,2,unreliable helpdesk team
+4f66532e-452d-475b-879b-a54cab9ad469,other,1,very poor
+63db76f3-705b-48a6-89aa-12fd7c2f6795,booking_fails,2,unable to approve adhoc request confusing rostering interface
+3eaa75e9-2fa4-47b8-853a-b30d962506d2,app_bugs_crash,2,forced rating popup blocks tracking and locating cab
+e074d3ae-507e-40ba-9620-d2f1ea56878a,support_unresolved,2,unhelpful helpdesk routing issues and ignored complaints
+3afdf5a2-8d1a-4b02-bd36-7a7dccf32c08,login_otp,3,login blocked due to glitch stating no active subscription
+f2bd445c-2e39-42fe-a282-0be92fb54ff9,other,1,not good
+0315c3fd-f531-495e-9a80-fc9a16d69ba4,other,1,worst app
+c5cbc213-2e64-4657-9a3c-c2ba4c8c385d,app_bugs_crash,1,OTP input does not open numeric keyboard
+fbf5383f-1865-4b2c-9d4e-55332c1908bb,driver_behaviour,2,unable to call driver and sometimes no OTP
+687fe329-3ef5-491f-8e60-4bdcd9cdcb7e,login_otp,2,asks for OTP every time app is opened to track vehicle
+fc5d3394-94e1-497e-8dfa-c59291ae63db,app_bugs_crash,1,no option to skip rating prompt
+31f0d5ae-8046-43d7-9e34-8de9408e91a2,safety_sos,3,no option to call driver or helpdesk during emergencies
+fc0c81e7-73d0-47cb-a899-4e4077b100ae,app_bugs_crash,3,app was not responding
+bd3b1149-6c0f-4969-8068-278276d92174,routing,2,wrong routing causing over two hour commute despite complaints
+7f260aad-0ced-4a27-8bba-e9b8aeb092e9,tracking_eta,2,coordinates not updated from company portal
+8fdebe44-30d5-4894-b96a-ccc6c5998d4a,app_bugs_crash,1,trip rating feature is disabled
+c3e95b13-6801-4377-815a-ee3c44a7b3db,cab_late_noshow,2,cab not assigned on time
+912ee358-1c7b-4cc1-837a-a29b9d80f23f,app_bugs_crash,1,repeatedly prompts for microphone permission on open
+a9149770-e5e8-4009-a7ff-df539fbbf238,other,1,worst app
+8096721c-6ca4-4c1c-b740-9cbce6184c84,login_otp,3,cannot log in OTP not received
+606db06c-6939-4087-a011-52a6b2e92999,other,2,unreliable app during urgent commute needs
+49541cfc-4b47-4383-afc6-8d99f698ea8f,cab_late_noshow,2,cab does not wait at pickup point
+ab295e36-efc9-4fce-9ed4-638f509c63ef,support_unresolved,2,rude customer support and incorrect cab assignment times
+13073509-d947-4ca0-ab47-9808d0e0344d,booking_fails,2,cannot select date range to book
+22eaacb5-39b8-4f81-a06a-efa3f4c140ad,other,1,worst transport service
+80559fcf-ab26-44fa-82b0-fbc5f73b8dd7,other,1,poor service with lame excuses
+aa7a1ac1-eccc-4377-afdb-5b18095612da,login_otp,2,requires login and OTP verification on every app open
+b42d1efe-f4f2-4033-a884-9a8cc9cd0890,routing,2,worst app for routing
+698edbb7-1b3c-444b-a489-8ab186243e45,login_otp,2,continuously logs off automatically
+59b2d93c-4120-4fa4-acd3-8576f5d770d7,routing,2,shows wrong locations to drivers and employees
+079b0dce-7fdc-461f-966f-7d4794518ab8,other,1,naive technology compared to other cab apps
+0d14b14d-28bf-495a-b23a-1bffec469ede,driver_behaviour,2,driver did not call and marked no-show
+60d19b21-5d8e-4c9a-bc6b-eb21c4ae61b2,app_bugs_crash,2,ride rating popup prevents accessing route details
+69dbefc1-7300-4749-90fc-e4976dda2879,driver_behaviour,2,calling issues every time
+c2a767e3-8fa8-4e98-bedb-617c489a1e8a,login_otp,3,OTP not received
+f081ec3f-22f4-4365-8be8-c2eab45feadd,driver_behaviour,2,driver arrived early and marked no show without calling
+ce3caf19-188e-459f-a50d-0aae3c133aec,login_otp,2,constantly prompts to validate identity after update
+5374bcb8-4bd0-488b-83a4-0a6d31730b13,other,1,worst app ever
+3ed3995b-c6cb-4cc2-810a-88a5883b34fb,login_otp,3,app unavailable asking to validate identity without email access
+0acee661-f95f-45d5-bea7-7cf4193a5074,driver_behaviour,3,rude drivers stealing forgotten valuables
+b4cfb329-e61a-44c4-bfce-8ed4ed493329,login_otp,1,too many OTP prompts requested
+b75354b7-b5bd-4dbc-843b-ed72ad19d6b9,routing,2,inefficient drop sequence and detours add 20 to 30 minutes
+93780641-f8b3-409d-80ea-73998a34aa66,other,1,worst experience
+4b71ea06-5365-4fa2-be18-a145f80bef3e,login_otp,3,not getting OTP
+5427eb1d-476f-4f56-b70a-79a90e2a9135,cab_late_noshow,2,instantly marked no show despite bad weather
+5e6a17cf-4feb-45c1-8077-aa833205ecf9,login_otp,3,not getting OTP
+f4170adf-ac6a-4ca5-8f7c-2989ae391bf0,app_bugs_crash,2,app does not show ride details anymore
+4915b804-f296-4213-ac9f-aae66bee91db,login_otp,3,not receiving OTP
+ab903be6-868c-4b3d-b04d-23759e8dca1d,tracking_eta,2,does not show traffic or route delays causing late arrivals
+abb65eea-bcfa-47b7-8548-d15bc6ae00ce,app_bugs_crash,1,confusing sign out UX terminology
+f646b64f-e0db-40f6-8b09-fb3562db68d5,support_unresolved,2,poor customer service
+dbf259d4-ad3e-4d01-9c71-ce1790e97c8f,other,1,useless app
+3217af3e-7a52-4e98-b8f3-9c19b68ece95,other,1,useless app
+7a50bb89-44c3-4a12-a0f0-b2220b604166,app_bugs_crash,2,slow app requires agreement checkboxes repeatedly and button fails
+7129e0b8-fb71-49e8-a6b4-2ecd72257c68,app_bugs_crash,1,not user friendly app
+850015b8-a52c-4e10-bf18-203deb7378b7,app_bugs_crash,1,needs stability and meaningful features
+f5aef093-72cc-491e-aac9-6626fad7d089,routing,2,sequence shows NA and driver sequence does not match app
+b4f77b42-c57c-4db6-9119-cb8fa2514df7,driver_behaviour,2,unable to contact driver
+9eda3141-29d5-4b16-918d-5a255cbe7893,other,1,worst app forced by company
+5c3337fe-90ec-4ecf-ab68-974dfed90eff,login_otp,3,no OTP received unable to log in
+43de4d0e-c744-44dc-bfb1-a9a6f442fa36,cab_late_noshow,2,pickup timings change unpredictably every half hour before pickup
+42562934-dacc-44e4-a9fb-34e4082d61b6,safety_sos,3,unable to reach helpdesk during emergency
+e3fb455e-aa86-4749-b7e6-5a5f86125b70,tracking_eta,1,missing waiting timer at pickup points
+9bc6d5b5-bfe2-4eeb-8fca-d0802278464f,other,1,pathetic app
+ee60efca-f3e9-4405-85cc-377698dd1b02,other,1,extremely terrible
+e2be6c41-20c7-40dd-9ce3-62dcdf8c0d57,booking_fails,3,crashes and server down prevent booking seat before cutoff
+902ef427-9735-43bf-a3f7-1ca87ec6a9c3,support_unresolved,1,unhelpful transport team
+439ab861-a02c-462c-a7dd-0c470be2e724,routing,2,shows wrong destination map to drivers
+cfb88e46-3fa6-4fa3-9719-60499f3d94ff,driver_behaviour,2,worst service and rude staff
+9807b404-7db0-4015-a55b-3d289a672186,other,1,not efficient
+53f7e71e-be44-4791-8f72-6d56a14fce32,other,1,very bad
+90652087-7ce9-4692-8438-bba0fadf5804,cab_late_noshow,2,unable to get cab and assigned cab keeps changing
+538cf391-08b3-4161-9249-7b7789a31d8a,login_otp,3,unable to sign up OTP not generating on phone or email
+f79e1c69-daff-42ab-b654-d845301e5e5a,app_bugs_crash,3,app crashes frequently with too many notifications and popups
+41cfa687-aed8-49a9-b0c3-3b575aa13755,tracking_eta,2,repeated login prompts and cannot track cab location
+99d59650-a36e-49ef-b02e-775b7c9ef784,other,1,worst app
+e4c99a21-68b5-47d1-b58e-9e5faaba030f,support_unresolved,1,no care for customer experience
+ce4add6a-5cf6-4c6f-854d-bd4e29c1e07d,cab_late_noshow,2,cab arrives far too early causing long wait times
+7c1c81bb-548a-4647-bc83-3050c592b399,routing,1,cannot see locations assigned to co-employees
+d2f5fc91-8045-48d1-a670-350ee77dcbb7,app_bugs_crash,1,terms and agreements prompt appears repeatedly on launch
+ba053384-b1e1-4ecd-a338-47d67adf3e9c,other,1,very bad experience
+468f9773-f1e5-487e-8d87-2396f25d4776,booking_fails,2,unable to view schedule for the whole month
+a1bc44b0-0421-4f27-bac9-72d3635d4eaf,tracking_eta,2,incorrect ETA because driver cannot mark no show in real time
+824d4e73-9625-4ede-81ce-914062b7730a,driver_behaviour,2,drivers unable to call employees via app due to glitch
+dee3004f-beba-4d93-9465-6651a629c679,other,1,worst app
+b05226f4-46fe-4b6b-beeb-b2ab280a892e,other,1,worst
+6e803af1-9555-43a1-9ffd-6e6e74806507,app_bugs_crash,1,no manual option to provide trip rating
+12a7fc68-888d-4ba1-92a8-c9773ab786a4,other,1,worst and time wasting
+f8e519ff-5304-4115-aba8-6362759693ae,booking_fails,2,cannot book transport on same day
+219e1729-99f0-451e-9282-6648b6a57681,booking_fails,1,cannot schedule cab for Friday in advance
+e75de79c-c38f-4ddb-b845-a0b10402d2d6,other,1,worst
+e11578cd-a3ac-451f-8e8b-aacb07bf7346,other,1,very bad app
+0c2245c5-dd6f-43da-b799-e26b7b524e94,driver_behaviour,3,drivers exceed speed limit and ignore speed warnings
+f745d452-babb-4948-94b1-e8e62fcccc14,booking_fails,1,worst cab app booking
+deb8fdf9-73e3-4121-84ba-698d8bb87892,other,1,worst experience
+51a6ffd0-8f75-4253-b4b5-d8320216c36f,app_bugs_crash,1,app is slow
+e9c3ccc3-ebfe-49a7-8b7e-b53bc19624ea,routing,2,app showing no address
+ef847829-0012-4d2d-8fe2-6a8bd9d690ac,tracking_eta,2,app tracker shows incorrect ETA most of the time
+0040a260-e0d4-46f6-b9de-98d57aeeba92,other,1,dark mode option not available
+c1e45a4e-90cb-4488-902e-0e4dd8362ff2,booking_fails,2,no proper cab allocations
+53dc7c8d-fb01-4509-bb96-6951f0f04f78,app_bugs_crash,1,taking too much time to load
+f08b48f1-e4ca-4e12-ac73-07112fd2829d,routing,2,wrong address location and wrong driver call
+b89d440d-c6d9-4a69-b0ed-b33a5606022d,support_unresolved,1,very bad experience with support team
+f92725de-0aed-4a6f-8208-8f8af60b7ae7,app_bugs_crash,3,app does not work
+0a5adaf8-906a-44cf-9533-a94abb60f7d9,other,1,most useless
+c4682050-e84d-4490-a694-acd4b981b407,app_bugs_crash,2,loses driver details and OTP without internet signal
+be18e247-13d7-4101-a679-2a2657aaf581,app_bugs_crash,2,app lags causing missed cabs
+e35287f0-9e3d-4397-9c60-cb63e1f2112d,login_otp,3,not getting login OTP
+88230a2b-04e7-412c-b25a-ff3b604c5589,other,1,worst app
+acfb318a-8a1e-4e21-ab82-86828fb2bda0,app_bugs_crash,1,does not show old trips
+5f202b06-5b47-47e9-a798-baf8d4445962,app_bugs_crash,1,pathetic app user interface
+3e3d8c85-29ba-4636-bb62-ecaf17ffb6c9,login_otp,3,no login OTP received and no registration status message
+3e735709-b4c1-4e7a-890a-f0c8707110d1,other,1,irritating app
+d14eda2f-ce44-4538-ab90-757a2f4129d0,app_bugs_crash,3,app is not opening
+1051865f-2ac3-4c0c-9dac-2f428b309061,other,1,very bad
+c307742a-9b47-4878-91e9-971f24e7b1d4,routing,2,poor route scheduling algorithm and inaccurate time estimation
+fd7ce2db-5bab-47a6-97ac-e9ee7c868961,other,1,too much confusion
+802731d4-d876-4869-ab2c-42d1e23dd2b9,booking_fails,2,cab booking blocked after three no shows
+3410f224-a69e-4368-aef4-9fd5eef1f5e3,other,1,not manageable app
+87df6a9a-8b6b-4964-9c54-8a53063e3aea,other,1,worst service
+89c91d33-1758-4bfb-9140-18a783d439c7,login_otp,3,OTP not received via email or phone
+3313638e-09c1-4855-8b40-dd8a84904e98,app_bugs_crash,3,unable to access app on mobile
+539679a5-9b64-4ce6-a908-32270d3b7f65,cab_late_noshow,2,driver marked ride as no show without informing
+99164fd6-bd75-4141-8c7c-d3af8fa9b728,booking_fails,2,cannot book cab due to errors
+707afb41-3f12-459a-b1ca-21e0155c46ab,driver_behaviour,1,missing in-app calling option
+e0722df3-3289-49a1-b791-8b8f4b2b4e9b,other,1,waste and not useful
+3c7c35b4-2246-4782-9a47-79a9470db2bb,notifications,1,past year no show notification still showing on homepage
+621969c8-9e70-4e8c-80db-def46b641121,booking_fails,2,book now button disabled and support does not respond
+fcbeda69-1dac-41ed-8b3c-d55c0732debe,safety_sos,3,SOS feature does not work
+d87fe125-19e2-4b1e-8022-f280aed35750,other,1,terrible app
+f4922246-294d-43bc-9e37-8e644517147d,other,1,bad
+b7139131-0aca-42ba-bd77-60f06ddfc085,other,1,bad experience
+5d029a23-aa6a-4dbc-b585-e4ef103d836b,other,1,worst app
+9a7b0eb4-fea3-4aa7-873a-bbe312e1d18b,booking_fails,2,unable to cancel cab because app won't open
+ac00ccd3-bdc4-4dbf-ac16-6b12da8937ba,app_bugs_crash,3,app not opening due to glitches
+263035e1-8300-4bd0-a5ed-1ac7edd2bbf1,tracking_eta,2,buggy app with inaccurate location
+adac4716-b8cf-4515-81d1-c01aea598885,other,1,worst transport service
+5fc8ad90-05c4-45e6-b4ad-67d7b9949b29,app_bugs_crash,2,high latency and fails to load on low internet
+40c297ed-ca9d-46cf-9140-660c08f49823,support_unresolved,1,no customer service and no proper response
+646a88df-6ddd-48d4-86fe-ed0dacf1643f,other,1,worst service for corporate organisation
+20913973-ef3e-44e5-8245-a2c6d053ae85,login_otp,3,"no OTP sent, app does not work"
+2930489b-0140-4b91-9072-214b090cc1b0,routing,1,too hectic to update new location
+ae77820d-8372-47ec-a8fe-70fadc3a626f,other,1,pathetic
+7f43a5e3-e153-46e1-ad4c-fbd83ca2e3f7,other,1,forced to give 5 stars to submit review
+845f2224-8d53-42b4-a4f0-1557dcdcf25b,app_bugs_crash,1,"not loading properly, takes long time"
+c6fa188b-93f6-417f-bcbd-5c947e2aa480,cab_late_noshow,2,nobody moves on time
+8a180230-ee8f-47e9-956d-f4dfd80e26f9,booking_fails,2,booking details always show incorrectly
+f1efcfec-bc78-443f-ae48-0084c6eb3946,cab_late_noshow,2,driver late for pickup and does not answer calls
+4fd12378-f78e-4e75-9686-4059f73d2315,support_unresolved,2,app logs out automatically and support disconnects calls
+980e47a1-e8f2-431f-9e60-4ac772a2f4ae,other,1,not good
+6b6e7aed-4727-48de-b2d0-3c167f16a437,support_unresolved,1,route allocators behave rudely with employees
+875fdd33-588e-4c89-95d6-e7dba579adef,booking_fails,2,cancellation failed and transport team rude regarding cutoff
+8f92907b-9377-4e4e-a405-4fd860b63b47,routing,2,route selection is poor
+bb2606a0-ccc0-4b85-8c95-1e6e6f34ed17,booking_fails,2,must cancel whole booking first to edit it
+fa29c635-08af-4a3f-9d36-3f4b3a4f598c,app_bugs_crash,2,fonts are invisible
+ac3968f1-d285-40fe-9ea0-85db64ddd842,app_bugs_crash,3,app not loading at all
+04f85920-3cf1-42eb-906f-df620a6e47e4,app_bugs_crash,3,app not working at 8pm
+b4441248-0833-46a8-884a-e48a0ca6cef6,app_bugs_crash,1,unable to view trip history
+972f85db-60b5-49a0-a151-991e1528bc9d,booking_fails,1,must set timezone manually before booking
+386a326e-ebab-4c98-b3aa-2024e118e6af,other,1,waste
+e7f65fb6-106b-4892-be1c-e6ef3356ae24,login_otp,2,app automatically logs out
+45015068-3f8a-4781-8bc8-dea9c27f06ba,booking_fails,2,booked trip information not appearing in app
+9a998b15-b9fd-44fe-bd5d-5eff9cfbd21d,other,1,worst
+2f6579da-e9e8-4578-bc81-84cb31ae0a05,other,1,useless service
+adba61b4-33d1-4b23-beef-4e3d0c941596,tracking_eta,2,live tracking is not accurate
+941d8a90-37b9-4f3c-93dc-84a6667ddddc,driver_behaviour,2,bookings missing on driver app causing aggressive driver behavior
+7a402447-b1cf-4880-ac90-55a8b2a24e26,other,1,piece of trash
+519c6934-5fab-44d5-83c0-f51d7ec9d33e,other,1,worst
+d5d6a150-f97d-48eb-9d1f-b6215198e1e5,app_bugs_crash,1,mandatory review popup appears every time app opens
+63b13220-ec0c-4bbf-9224-3e17c6b8805e,booking_fails,2,cannot book weekly in advance and bookings disappear
+08e4433c-04e5-468d-a8d3-00e70aed60a2,tracking_eta,2,cab location not properly updated
+008ae233-9d63-4c46-a472-957a59ab89ea,tracking_eta,2,cannot scan QR and cannot track cab before boarding
+1c5eb303-034a-42fa-b6e5-9b037e3c333f,app_bugs_crash,1,app not properly deployed
+2383e87a-d144-4037-ab9d-51dc12ae0c65,tracking_eta,2,inaccurate pickup ETA and cannot edit pickup location
+2aaaa38e-42db-43b7-ad07-c6e69fb76758,app_bugs_crash,1,cannot open trip history while on a live trip
+a7dd347a-4d05-4e19-906b-8397ad93fd05,login_otp,3,no OTP coming via mobile or email
+fc3afa80-8281-4f29-b354-7c5d01645e1b,app_bugs_crash,3,app goes down randomly due to deployments
+7fb8b661-b2e5-4df8-94b7-30f573e71439,app_bugs_crash,3,shows 404 error or blank screen for a week
+5e7bc0f4-6309-41f2-b7d0-539800a6a550,app_bugs_crash,2,not showing upcoming trips or OTP and QR scan error
+af35c47e-62d8-4f2d-b337-10375b091a8d,app_bugs_crash,1,prompts transport policy repeatedly and QR scanner requires torch
+2156a56a-da09-477c-9378-cbe4c7f14c25,booking_fails,1,no option to cancel ride anytime
+e77a61c8-23fd-4be2-b05a-70fc14b0e15c,support_unresolved,1,unprofessional service and lack of customer support
+ad631a8a-027f-48bd-a693-3e2c35d4e904,other,1,UI design feels immature and cartoonish
+647fd2f3-9564-4b40-b0ea-ba5c282ac193,other,1,general dissatisfaction with app
+c6c7cb72-aad7-4235-902c-5cd1729c8043,app_bugs_crash,2,app too slow hanging and showing blank screen
+37b9e479-b0d0-4bd7-bca9-8435ee6aef57,booking_fails,1,confusing booking process and unable to book in advance
+c71e8d82-5447-41f1-85b2-031aa09b61cb,tracking_eta,2,not showing real time data and tracking
+b6232692-71a1-466f-8c7a-062abc640ea2,app_bugs_crash,3,app not working cannot resolve domain error
+209d939b-0c1f-4ddd-824e-da661bc96f92,app_bugs_crash,2,glitches in the application
+c58a0750-a8fa-4ab7-be5a-f41475db184a,safety_sos,3,safety concerns reported
+9278749c-a70e-4642-b332-a2ac91974348,other,1,poor app quality
+9cd2aa0f-16fc-45fe-87dd-3d164f11cbd4,other,1,generic negative review
+e7b4e10a-83af-4280-932d-5ecc6291d007,other,1,UI needs improvement
+fdbd6c0e-2d95-4890-b986-26651d8ddbed,booking_fails,2,cancellation fails due to bugs no confirmation screen
+3dae7217-9864-44da-9797-022b4c74944c,booking_fails,2,cannot rebook if waitlisted slots are full
+858f97ef-e9ff-491d-acc1-25db179ee36f,login_otp,2,app logs out every 10 minutes
+265effd6-a2b7-45f8-b38d-d47440a8c883,app_bugs_crash,3,false error stating app not downloaded from Play Store
+df1ff4a0-9845-47fb-a5bc-3d33e83e931c,support_unresolved,1,no option to reply to feedback
+a69c2b9f-be60-4b4a-bfc6-cfc40a3d7621,other,1,generic negative experience
+698a6428-37d8-4ad8-8afd-2283d050c13e,other,1,app repeatedly asks to accept transport policy
+72c1ce0e-7158-4570-92f1-05aa159e9136,other,1,dissatisfied with app
+fdc328ac-2980-4425-85ba-86105f68fb3b,tracking_eta,1,map zoom level resets automatically making tracking difficult
+b2424afb-5292-4f39-8646-ca25b730fa05,other,1,app not useful
+088fd4af-a686-4938-8ce3-7b284712f73d,cab_late_noshow,2,frequent no shows and poor customer support
+51ea04eb-3995-480a-856f-b69e1d9f3963,login_otp,2,login experience is terrible
+6c48eb66-fb39-4046-a2f5-09f5c78c8694,support_unresolved,3,driver marked noshow wrongly and support staff was rude
+d62d9296-90f6-4db6-8204-85ee2a9d4275,app_bugs_crash,2,app loads very slowly or fails to open
+4c1b9af7-319f-4e19-b826-afc97abb1897,login_otp,1,app logs out profile daily
+de414fe8-e431-43cb-80a2-b06a609c95b0,routing,2,address not updated and no alerts received
+a5c0ce2a-2868-4b88-a02f-886320812144,other,1,unsatisfied with service
+70d4999d-e679-4161-9a98-46b6bd175d35,app_bugs_crash,2,car number not displayed in app
+cd95a627-25bb-4b4f-a879-e2b31585c706,app_bugs_crash,2,fails to provide trip and commute information
+c76a8e09-0c8e-4651-a2f6-ac58ef592394,routing,2,poor cab scheduling irrespective of routes
+791076c4-2466-439f-b09a-55e0ad231ed5,notifications,2,no SMS notifications when cab is assigned and technical errors
+0c74c915-3bcd-444e-9f93-aad7b0000aed,tracking_eta,2,inaccurate tracking caused extra out of pocket expenses
+0abd010c-b148-4760-8241-2bf21e80714a,other,1,poor interface and degraded UI compared to previous version
+39ebac70-0c49-4c34-a880-5ca4a4870938,app_bugs_crash,2,long delay to open the app
+a3c3a84f-cf6a-4cc4-b998-a60c2f095bba,routing,2,poor route configuration causing inefficiency and confusion
+0931e39c-26d2-49e4-be36-c3e34df06651,praise,1,useful service
+b9b105b3-4a66-4340-aa14-d248a91164db,booking_fails,2,transport team delays real time cab assignment unfairly
+dcaa9f75-51b5-446a-bb78-5e6615fed6d8,login_otp,2,app signs out daily requiring OTP login
+935d1e6b-0b32-43c2-bb8b-600c646b8472,booking_fails,2,address not updating preventing cab booking for three days
+af837131-172e-4c50-b114-b1483627a74f,login_otp,2,app logs out every time forcing repeated logins
+b5c92ebd-2369-4a36-be42-63de624cbd9f,app_bugs_crash,2,app keeps crashing and forces repeated login
+b69b9744-0402-48e4-b012-8396e272be1b,login_otp,2,daily login and OTP requirement is very inconvenient
+db63c544-a491-4301-aa3f-829506c242a0,login_otp,2,app asks for repeated OTP verification after update
+b6388268-30ff-4571-917d-35c8804752c0,login_otp,2,unwanted logouts and difficult account recovery
+ee5d0d42-db26-4218-b8d5-cc08d0bf25aa,login_otp,2,keeps logging out automatically
+5b5d62e8-0cfa-48f0-92b1-8700ced574a3,login_otp,2,unable to login using mobile data only works on Wi-Fi
+8dd20d1a-8c7b-4ece-a3ee-e2c6e31b9347,booking_fails,1,cannot view future bookings beyond one day
+647d324e-f88e-4b4b-967d-96c936081caa,other,1,negative experience not recommended
+e67fc7c5-d776-4653-b0ae-478a12216067,login_otp,2,forces login every time app is opened
+739eec7c-0fd5-49e4-a776-5a1e276483f0,booking_fails,2,unable to book bus after logging in
+1632f070-1737-448c-8a6d-4a627522a6d5,login_otp,3,registration OTP never sent
+45df9665-3fab-4022-a9db-d7e4a112a537,app_bugs_crash,2,no driver call/chat missing cab number and slow login
+ae038694-83a7-4363-86a1-5a5c5de769a2,other,1,poor overall app quality
+79cc0a34-6373-4bf1-9ce1-4a074ad449a2,other,1,app is not user friendly
+697e4173-bc7e-42a3-b56d-75a9db00a95f,cab_late_noshow,2,marked no show even after scanning QR code
+47b0eb14-2603-4822-87d2-dbc14e32293e,safety_sos,2,five people packed into a four seater cab
+a15b858e-6cd4-4563-b9af-97e1438cf190,login_otp,2,requires OTP login repeatedly within 30 minutes
+346477e2-276b-43f7-898c-621e37198fc8,login_otp,2,SMS OTP auto read fails timeout error and battery drain
+462a1532-0196-4124-9a72-ed5777e832ff,login_otp,2,app logs out automatically after latest update
+3a58c692-4007-493a-a556-8274ac185c44,login_otp,3,not receiving login OTP for two days
+afe44343-28f5-48bd-9846-0bc716e89b84,other,1,general complaint about app
+730ad883-2d27-4130-8ccc-91546dcee57f,other,1,UI is extremely bad
+2a6d7d01-678d-4a20-9c46-182c4641b544,tracking_eta,2,no real time tracking updates and unhelpful drivers
+8e0df0b7-2f4a-4de8-8233-c49bbd158678,other,1,general negative feedback
+8e01174f-85f1-4e9c-aa63-76a7c4c141c9,other,1,poor quality app
+c8998433-ae34-4c3e-8b53-9560d4846f94,other,1,app is not user friendly compared to previous version
+b6c5f308-c951-4242-b4ff-19fe2389c9ca,app_bugs_crash,2,QR scanning slow and fails to show trip details
+17491d8e-0677-44be-9ba9-82ffec519f3a,booking_fails,1,trip allocated too early and past trip details missing
+953583ef-ce96-497c-878e-77c8bed690f0,login_otp,2,asking for OTP verification on every login
+ca38a841-3abb-4859-8fe7-edf5e6f91f37,login_otp,3,OTP not delivered to mobile or email
+c1995caa-e7ff-44d6-a1cb-cc548f2f90e6,routing,2,poor office ride route planning
+34f58278-5165-402e-b2a6-3543e14ae3fb,login_otp,2,app constantly logging user out
+dd3ac9a7-c3b6-49dc-9b3b-75142b197935,driver_behaviour,3,drivers use harsh words unconcerned about women safety
+9c136b1d-ab0d-4f95-b897-2cb45bbfb3b3,other,1,poor service quality in Hyderabad
+3b91f792-ca46-4bc9-b504-cb7bd4b1b8a8,safety_sos,3,rude staff and inadequate women security
+4d1bb57e-86d4-4141-a1d9-c01e60033153,booking_fails,2,schedules shuttle on weekends when service does not operate
+f9a7cc33-1f83-4848-ab97-1f22d8650ac3,app_bugs_crash,2,app not working properly
+3d87f169-2508-4a07-9e5a-d63b2c548ed3,app_bugs_crash,1,view OTP blocked by extra seat belt safety popup click
+d980e749-b3df-4f90-ba1a-0987168cfe13,booking_fails,2,metro booking bugs missing QR ticket and no offline access
+93d75126-98c3-43de-9fdf-cee95c3ed1c6,app_bugs_crash,3,falsely states app was not downloaded from Play Store
+785327ff-5759-41b8-ba5f-c6eabed81c01,app_bugs_crash,3,error showing app not downloaded from Play Store
+c988bdd4-9208-485e-b843-ec01a15a0e6e,other,1,requests too many permissions regularly
+0b1041ae-ce09-4947-b5f9-744e9014a639,booking_fails,2,auto cancels return trip without reminder when marked no show
+90549e2d-6239-4ea2-b6d9-8377168c8e3f,app_bugs_crash,2,app very slow and repeatedly loops to same address screen
+b1814d48-3e54-4903-a109-e09e05bc3145,safety_sos,3,unclosable popup notifications delay SOS button use
+0f947251-87c6-4244-92b9-0df3218ca71e,booking_fails,2,booked bus marked no show without employee action
+558d5be1-21f2-48ca-add2-ee7274698591,booking_fails,2,no option to cancel roster
+0f174a4a-7c30-49db-b25f-1bb0af96ff71,booking_fails,2,unable to cancel ride within defined cutoff period
+512425e1-1a88-4793-b3cd-bcdf91cd9ac9,other,1,app navigation is not easy
+85fd3b91-f6ea-471f-9272-ba3e814635ab,routing,2,longer routes scheduled causing constant cab delays
+3adc2e4e-19ce-4115-b8fe-52716d4c1561,tracking_eta,2,delayed map tracking updates take minutes instead of real time
+372c9fae-d5ea-4aa1-a446-4475e4d0da44,tracking_eta,1,map automatically zooms out during vehicle tracking
+c349d5f4-65c1-444a-aa69-670da8eebaeb,app_bugs_crash,3,repeated crash stating app not downloaded from Play Store
+5fadff5a-d9f6-4001-b8c7-86e5adb0998f,app_bugs_crash,3,app keeps prompting to be reinstalled
+197ba14e-4944-4f88-831a-478e51067999,other,1,worst experience
+50c50294-38c3-4c13-b8f3-6a794f79b1fe,app_bugs_crash,1,buggy app and inflexible to feedback
+ae1d3e41-e481-4c1e-ac8f-633cef5a35bb,tracking_eta,2,does not provide cab number
+9dd4ac02-19d4-4650-9a90-f510b523e0ab,notifications,1,excessive notifications asking for Play Store reviews
+c184e82e-5fe4-41fd-b73c-6ad9a1e31e61,booking_fails,2,"unable to book shuttle, stuck on finding your location"
+c6d30800-250c-4541-9335-7e6114e0474b,routing,2,address and entered location do not match
+f4368a93-4ceb-4f14-8e24-e9bcaae0fba6,other,1,bad experience
+c49d2624-a9ed-4345-a079-4a735db03c72,other,1,rating system limits reviews to only 4 or 5 stars
+e30ca486-7919-4d63-8528-4527738f0469,support_unresolved,2,employee complaints ignored by transportation and cab owners
+f7551505-b053-42d1-af7c-5eda85114dcc,other,1,confusing UI update with red logout font and smaller book tab
+5f8071d4-f377-4ce7-83ab-dda2ae898e6d,other,1,not great app experience
+fd597af6-1a11-4706-b50a-089dbbe64aed,tracking_eta,1,accurate navigation is missing in the app
+8175606f-b68a-4c7b-93a5-e179174916fe,app_bugs_crash,2,application goes down frequently creating chaos
+e0203c10-6ec2-418b-af25-145b20119a24,app_bugs_crash,1,requires multiple attempts to load shuttle information after update
+e8e11e4d-3c5e-4a3f-8c77-4ea59704daf7,tracking_eta,3,wrong location shown causing employees to miss cabs
+a290e189-c7ba-4997-ac44-90de447a7448,booking_fails,2,cannot see booked cab schedule
+2a42eb99-eb5e-4077-91ff-297cc7c99303,booking_fails,2,does not allow modifying booking immediately after creation
+fa6594fa-6606-4ff6-b9a5-de4ab5e21a80,support_unresolved,1,no response received for bad feedback
+822e3851-484e-4981-bb45-856b7728e790,app_bugs_crash,1,app is extremely slow
+60e692e8-81cc-4ef2-b3cf-2e8a967cbcfb,app_bugs_crash,3,app not working on Pixel 6a device
+bc64e16f-9298-480c-97cf-50e5a3c28976,other,1,app is not very useful
+76391303-2268-4f8a-9c41-c4f0eca5a36b,routing,2,nodal point requires more than 1 km uphill walk
+ec86afac-8439-4796-99c5-4645bb3ae5d4,other,1,request for in-app messaging feature with drivers
+5aa244f2-9f63-4776-9961-44e124991b7d,other,1,request for chat option instead of calling drivers
+8af5dc60-ead2-4d83-9e1e-661ec297bc72,other,1,app is not user friendly
+a617f269-7c49-4ad0-bdeb-5bedd23345d4,cab_late_noshow,2,cabs delayed every time causing extra hours at office
+34dba313-e187-4295-884c-9d870fe4ee29,app_bugs_crash,2,QR code scanner failing to scan properly
+9c3a7855-c1f5-492e-b7cb-6508a971befd,tracking_eta,2,does not show exact ride time
+75935ea2-b99d-4e6d-8750-61811a69d1b3,tracking_eta,2,tracking glitches and takes too long to fetch details
+531deb67-6e89-42da-a46f-4ce6df027620,support_unresolved,1,support and help options are untrustworthy and unhelpful
+52e970bf-2ae8-4d57-979c-718ef6d597c4,tracking_eta,2,error message appears when clicking track button
+a5724f1d-7826-41dc-80cf-265b722c7859,login_otp,3,automatic logout and denied subscription access error on login
+7dbed319-cdd2-498e-91a3-2f8cdfcdd196,notifications,1,constantly prompts for feedback from previous ride
+db17a7b4-524b-47a7-83b2-c6f34b2d9ee1,app_bugs_crash,3,app fails to work most of the time
+3052614a-d0f3-425c-866c-a676216dd932,tracking_eta,2,app no longer shows pickup timing or co-passengers
+e180dc0f-a197-4882-a6c5-f4c71fa4eb7c,login_otp,3,login timeout error occurring frequently
+bc9cb45b-2171-41c8-9243-e4918222dbd1,other,1,no visibility on transport policies
+7a09801f-d95b-4b7c-a891-c0db56124a93,login_otp,2,app fails to open and repeatedly requests OTP
+69fb0965-1edb-43b9-a399-88b2deac6f8a,login_otp,2,requests login every time user tries to book
+b6720df1-55f7-4ab4-a4f6-6ae7025e91e1,app_bugs_crash,2,frequent app crashes and lacks colleague schedule matching feature
+7a82683d-161a-4704-a6f2-e1230e8eb4ec,other,1,normal app
+bf3631e1-7c10-4154-b9ad-21a72d2f3dd7,booking_fails,1,lag in reflecting booking status
+ce1dd74e-9f07-4c87-af2f-e6ce86ccfdf4,other,1,poor management and lack of coordination
+5e6fe68f-e5ec-456d-89e3-ed8a213e1852,notifications,1,too many notifications
+bca2baae-70f6-4da5-9e4c-801a2af3f550,other,1,worst app experience
+9798400e-2e5f-407f-82d0-a50ac0381384,login_otp,2,signs out every time app opens requiring SSO login
+63af4a5a-d063-49cd-a424-ff41473d4c1f,app_bugs_crash,3,unable to open the application on phone
+ac0225b4-992e-4b9a-bfd6-3da50f0703fd,login_otp,2,sudden logout while cab waiting prevents viewing OTP and contacting helpdesk
+6228d282-84f1-4296-b48c-6354e487510a,routing,2,improper stop assignment by transport management
+ed9ec72b-4c69-40ae-8f9a-1b3203c6078c,tracking_eta,2,difficult to track driver location accurately
+8afa3d4a-7c92-4d2f-85c5-88eea0310195,app_bugs_crash,3,crashes constantly requiring daily reinstall
+6d189ebe-66d2-49e5-9c4e-8cd226cfe048,other,1,co-passenger locations are not available
+4114f6dd-c75a-4ea2-b5e5-8d7a34285909,routing,2,removal of nodal points forces 1 km walk
+0ca9a4a3-80d6-4d4b-8dea-c0abad2bba68,praise,1,nice app
+57e90812-eb1a-4b77-8235-965aed7b78c4,tracking_eta,1,map auto-zooms out and false unscheduled ride notifications appear
+880fbcae-60f3-466f-9ff8-b492458612eb,app_bugs_crash,2,app hangs while loading or opening camera to scan
+8b72a87c-2d16-4e5d-8edd-d4007ddb9692,login_otp,3,did not receive login OTP
+7d33da9d-1dfe-405b-b749-0d87c18b8f49,other,1,trip rating screen not prompted after bad rides
+58971b37-3181-4289-a948-30a6fedc7717,routing,2,routing issue
+3e61a75a-2689-4785-af03-4e07a5e52a1b,booking_fails,2,trip cancellation not updated in app leading to no-show
+5029830b-5348-4afb-ba7c-4291feff2220,booking_fails,2,cannot book rides for more than one week ahead
+32f42917-fbfc-419d-918a-4226180a9dde,tracking_eta,2,app lacks location accuracy
+7b30ec66-c86b-4769-8940-9139f659a162,tracking_eta,2,pickup time and vehicle details not appearing
+bfaecc61-6237-433d-b4e6-73654b0ce08a,other,1,app needs to be updated
+fd4566a9-607b-4666-aeaa-ef8aef4c2ece,login_otp,2,app logs out on brief internet disruption
+3ccccdb6-1970-4f8d-88f0-ab1845c27d1b,login_otp,3,frequent logouts require OTP every time with connection timeouts
+cc9030d0-ccb3-4b72-b4f6-7728f3e2890b,tracking_eta,1,map auto-minimizes when zooming in to track cab
+a51c799b-c18d-4b28-aa15-088e838e0d00,driver_behaviour,2,some drivers behave very rudely
+ed29631a-b415-43c2-a899-30e783a51859,driver_behaviour,2,call to driver disconnects after one ring
+767dd2c6-6c34-4f3a-b894-0cb407cad43e,login_otp,2,app logs out automatically twice a day and loads slowly
+133d2b88-b2d2-4fd4-9594-1ac26caf819e,app_bugs_crash,3,app crashes on startup and will not open
+3db67aeb-2d7f-4b6a-ab28-bd4ebd0e3199,login_otp,2,slow OTP generation
+0fd3b9d4-e346-452f-950b-46f7292733ed,other,1,request for chat and location sharing feature
+2b0213c8-2dfe-4116-aecc-a27929059916,app_bugs_crash,2,falsely shows no network error despite stable internet
+39af8053-adf1-4976-a101-6e6458bf659c,booking_fails,2,Saturday bookings and logout trips not showing
+ba357853-25d6-4c48-9463-ab48feb5d3e2,app_bugs_crash,3,false error stating app not downloaded from Play Store
+22601e98-0733-4556-b07b-7cbb8a46bfbd,login_otp,2,automatically logs out within two minutes of logging in
+6dbe995c-5664-4890-ab6d-9ee0b4dec570,other,1,requires rating trip before it is completed
+4b1646d6-ab4e-43e5-9695-a0c1a6afe507,app_bugs_crash,3,app refuses to open claiming not installed from Play Store
+4e3820a7-aac3-4c54-aa6c-2b2f1bd1ddc4,app_bugs_crash,2,app does not open properly
+341feb49-ec55-4cca-b783-64699751ab75,app_bugs_crash,3,error claiming app not installed from Play Store requires reinstall
+b6917179-a3ab-4af8-9a53-50c6d987eb36,login_otp,2,app logs out frequently
+3b496343-6d57-4b65-9438-35e18b2d5f0f,tracking_eta,1,slow reload time and inaccurate location tracking
+3a66e81d-46fa-4b36-85ac-9d504fa0ddfa,app_bugs_crash,3,fails to open stating app is not installed
+bc48ce4f-05c7-4414-9f7b-9c08b3272ab5,app_bugs_crash,3,crashes with error that app is not downloaded from store
+576e98ad-71d5-43e9-8d8e-291d7b5d4966,booking_fails,1,missing option to modify booking and complicated UI
+d4735ca5-60cc-429d-bf54-7176a9ca82f3,other,1,request to add tutorial on how to use the app
+a80b16e2-64b2-4f8b-b5f5-68b2718a1dcb,routing,2,pickup details lack building name and floor
+4803f14a-be78-4007-9527-a8f2e06c7352,booking_fails,1,cab timing allotment could be improved
+773466c7-be26-4694-a9ed-de943f2c80c9,other,1,navigation requires too many taps and is not user-friendly
+3346deda-c1bd-4151-98ed-7a5ad1a8caba,app_bugs_crash,2,app crashes sometimes
+6755cbf6-dcce-41c8-9573-4a47250b4f47,app_bugs_crash,1,repeated glitches while submitting trip rating
+50d2a069-4bdc-4f56-80a0-8140c2149a22,other,1,updated UI is complex and difficult to use
+75847d27-f924-44fd-bbc7-015266b0640a,other,1,request for feature to message the driver
+f96d8859-6e44-4dc2-a415-3b979754eb89,other,1,worst app experience
+a5823b6c-30e6-4c0f-9633-4a164e42132b,login_otp,2,significant delay in receiving OTP
+18637fb6-9d3a-46a1-a52c-24950bc66558,other,1,app needs improvement
+1d4bde92-7e53-4eed-8dca-051f11f4d2be,safety_sos,3,drivers refuse door drop at night
+bfcef2a6-0897-4488-9779-5b3696ca02f4,app_bugs_crash,2,app fails to load properly when needed
+e9c7cc35-5552-489c-a23d-fb64b0fcf132,tracking_eta,2,"bad ETA calculation, slow, and sometimes missing"
+fcc2d2dc-7c99-4de7-adb0-21d43f8445a2,app_bugs_crash,2,app loads forever and errors out on Airtel Wi-Fi
+f660081f-c5e6-4957-aae1-17bcffa9c6cf,app_bugs_crash,1,errors and inaccurate details rendering
+aba58a88-e9df-4fb2-ab85-c2d5bce1a8f3,tracking_eta,1,real time GPS tracking inaccurate at times
+ed4450a3-c6fb-489c-87de-9361838eaee0,login_otp,1,annoying to give OTP to driver every time
+e7a03062-4f6e-4134-8d04-7f4f7fee612b,driver_behaviour,1,cannot call or message the driver
+9a914cd0-d2e0-46ed-ad45-fe2993560918,other,1,app does not support system dark mode
+85455a4a-72ff-4393-b8a9-2edfafa0146e,booking_fails,2,accidental touches unintentionally cancel trips without confirmation
+715bfdc1-b167-4cfe-9393-62a66b23959d,routing,2,pickup nodal point wrongly defaulted to office address
+aadeb072-3a5b-43d9-a4a5-c8459716cc9b,booking_fails,2,booking cutoff eight hours before shift makes no sense
+482f69ad-bc73-4d9f-84df-84367b9cea72,other,1,driver gives rating himself preventing passenger from rating
+8ad8456f-f945-445a-bab0-5c26f58563f1,routing,1,route assignment does not consider proximity to driver house
+7aa80890-c8e6-483f-b476-8ad7520f2c8e,other,1,request to enable dark mode
+9d7ebf85-7c51-4930-8eca-eb15b0f1a146,driver_behaviour,2,drivers do not answer calls half the time
+0f9c8300-c2cb-4091-8ec0-fa06636b29c0,other,1,neutral review ok
+9c275127-5c03-4b92-8764-68be146afffd,other,1,user interface could be simpler
+1c5a4f72-4a5c-45c3-b915-53440f52cc77,app_bugs_crash,1,app takes time to load
+278c4e3f-924e-407b-8fec-5e6715e4b8a9,booking_fails,1,booking cutoff 48 hours before is too late
+dc871c88-187f-4814-8767-e0511d7ae177,notifications,1,safe reach notification won't pop up again if missed
+7908d3d2-4ebc-4da2-9b89-5717745d3f81,other,1,requests dark mode due to migraine headaches
+e04c4402-229f-439e-95a8-a366425f0929,booking_fails,2,cannot see plus button to schedule cabs
+32463f89-10c7-496b-8727-a4950af0b860,other,1,app is very basic
+49e53d89-26cf-4c9f-b6fe-ba96c157461a,booking_fails,1,auto suggestions select wrong previous booking on roster
+29f3fdd8-6cd2-45d6-a4b0-6167c34867eb,app_bugs_crash,1,latency issues and slow app performance
+eb32c683-7544-4415-8f42-0fde4c21e146,login_otp,1,requires login every time app is opened
+65a6d729-5e5f-435a-8ca1-26626ee669ff,other,1,not user friendly
+b831ee65-f6b8-4804-8beb-e0f9b66f87a9,booking_fails,1,missing feature to exclude weekly off days during rostering
+85546029-7e9d-4dbd-acfb-5959b1795d73,app_bugs_crash,1,poor app optimization
+e592f4c1-7912-4007-90e2-bb991497e896,other,1,hard to deal with app
+a4ccf916-de6a-4d87-84d7-afd15a73e9ac,driver_behaviour,1,missing in-app chat feature to contact driver
+3a096690-a143-4e74-82c1-1c542952a176,praise,1,decent app
+d0ab3af6-be50-4063-913f-72d868fcaaa0,login_otp,2,OTP does not arrive on time
+9de2b8cc-4d00-4d1c-8c05-59e8517353a4,login_otp,1,frequently asks user to log in
+7804617c-c8c1-420c-9020-3ab6d982f05f,tracking_eta,2,map location not populating accurately unless kept idle
+dbffe9a3-1e68-432b-9654-7a524a6e651e,app_bugs_crash,1,occasional errors and time lag
+33168daf-aa73-4760-a2d7-b652c322f27a,praise,1,good
+8476f00d-8bca-488d-b730-75de921479d7,login_otp,2,app logs out constantly preventing ride tracking
+32c5c515-3e4d-4100-a284-a30e08fdae3e,notifications,1,unwanted notifications and alerts
+454cce69-6219-4d42-b46f-20e3405afe84,other,1,average
+b586e4bb-69c4-4b3d-87f4-07970d010af6,app_bugs_crash,1,I agree popup appears repeatedly for every action
+63461c38-8295-4872-8fce-d45db0d596cb,routing,1,no option to change drop location for weekends
+94eb1b0f-0d9e-49f3-918d-56fb327d1b4b,app_bugs_crash,1,policy agreement prompts multiple times
+2f28611e-96cb-494d-8d09-d5ef6fc0e751,notifications,1,app repeatedly prompts for rating reviews
+4e2c17d1-c4df-4414-8494-9528709678a1,other,1,ok ok rating
+3e16be2c-e24e-4ef1-a5e4-c0f8ba9aad24,login_otp,2,frequent logouts and delayed expired OTPs prevent login
+863096b0-872e-4623-b5c0-e73979924614,tracking_eta,2,cab location is not accurate sometimes
+ba6d1a47-718c-40b6-9176-9a82a4dfddef,praise,1,nice one
+ceb06ff1-eab5-4eff-9728-84fead7fca9a,praise,1,simple UI and user friendly
+44384241-b2b0-472e-8670-5b5d41bb84a9,praise,1,good app for bus booking
+56963a4d-3d4f-43a3-8c97-7cc8f7ca7429,praise,1,good
+3e7a523a-9513-4a53-903f-781deef88302,tracking_eta,2,drop off times are absurdly wrong
+6bd91381-670a-4fe9-b02c-aab512d29987,praise,1,good
+3a371891-e425-4928-b544-7e847081ab7d,praise,1,good for office commute
+16b0e08d-a18e-4fcc-99d5-7fdc5acfcba8,driver_behaviour,1,missing chat option to contact driver
+94bd8b38-faf3-405b-8a62-5b0f63f43dee,praise,1,good app
+fc52fe39-39e5-4a95-ad80-2647cf087b97,praise,1,user friendly and provides real-time updates
+1a07613d-867b-4882-9645-b9cd73bb0e89,praise,1,wonderful app with nice updates
+ec6e09da-1154-411a-ab5f-73e5beb0f8e9,praise,1,very good
+8d138f19-d399-4575-bdf8-209efa46aa54,notifications,1,missing morning reminder notification for parking booking
+a0a7b98e-4e48-4d12-9a61-e6a0c850d9ff,praise,1,great
+b444516d-9a24-4cbd-b3ba-4b11f065a67f,other,1,request app shortcut for QR code scanner
+59a20393-bbe8-4e65-8091-ff49c4335c7d,praise,1,simple and easy to use
+d29d4517-f651-412e-8553-38e0a4aabd32,praise,1,best office commute app
+b415224b-445b-4b5e-942a-4d5bfca782ac,other,1,okay
+3997e882-3686-406a-8fa4-e8188242a508,praise,1,good
+8bce2d1c-c5b5-46a0-a23a-1503acff5e87,other,1,request to enable dark mode
+e6c6f983-ce8f-4b45-915f-a2cc27ccf9e2,praise,1,smooth functioning and no issues
+dfaa45a3-bc67-49cf-9607-3780c318720f,praise,1,super
+9ce97b62-9234-43bd-aabe-261ca79b6469,routing,1,routing should optimize pickups to one side of road
+69923a9b-c39c-4b50-9d4c-5c3cf4cb669c,praise,1,nice app
+34e921d8-584d-4b7c-8929-27995b53f4c7,praise,1,good experience
+ecf3d203-34c4-467b-8ab9-8c3999e61376,other,1,need user access to no-show option and default settings
+30e14507-4572-49d0-b1e0-854ac7c7015f,driver_behaviour,2,driver calling issues
+6d23e55f-e898-412b-9309-100f389aa9e7,praise,1,nice
+4755a247-7a41-4df9-860a-c191b60022df,praise,1,good
+c9cb4fce-eba2-477c-85d0-64009346c6ca,tracking_eta,2,tracking needs to be updated
+95f6c778-4dbe-408d-a855-c73102367021,tracking_eta,1,map and live location tracking could be better
+16c4423e-fa56-47e8-8d60-42f400a6ff4b,booking_fails,2,scheduling cabs often fails due to errors
+f5509353-2a5e-4623-a1d1-3d8178bc1590,praise,1,app is very user friendly
+3bae5c62-4b05-4fc7-a02d-0b25a6a9dd84,other,1,not better than competitor app
+16895e0c-786e-4930-a160-8503b6418c22,cab_late_noshow,2,cab delayed and back seat overcrowded
+4e5fb3c6-26a9-44a2-920a-a82be0c4eaf6,praise,1,overall good app
+467f218f-29f6-4560-83d4-6ef69826c7ca,praise,1,good
+1a5742b7-dbc3-4763-8a27-aca9a50a8c64,praise,1,good
+d2d8c215-6319-4773-83f1-a4437c2ed453,driver_behaviour,1,no option to contact driver directly
+0779ddf6-c8f9-4baf-bfef-83a279bde7a6,praise,1,super app with upgraded UI
+438b96ff-85e6-43a4-99cf-6442c662af37,praise,1,super
+23aae23c-699c-4ae5-a978-a9626d2d8bb1,praise,1,good
+ccdbb360-35e7-4b22-ac86-a2fcd45429bb,praise,1,easy to use
+3c921584-acb9-4edb-9da1-003456228f66,praise,1,smoothly running office commute app
+2306c3d2-a25c-470a-a16d-1cdae67eb1c2,app_bugs_crash,1,app not completely synchronized
+c3e981be-e874-4310-a27b-402c51166309,tracking_eta,1,does not show exact waiting location of cab
+19cf77a5-1a85-4205-a5c2-29151c1dd61c,praise,1,using for daily office commute
+dc8cabe6-3ff6-449f-baba-411e732a7b1f,routing,1,no option to manually select locations
+9b5757af-4f31-46d3-b80d-b2850ff6a1ce,praise,1,good
+c76a9bad-d6e9-4a90-a8d6-a71e29041844,other,1,scope for improvements
+18e4474f-d876-4ade-aa43-31cd91e8c6aa,praise,1,good
+c8984c6a-6432-4053-b4f0-8b43d427fb9c,praise,1,nice
+f6713422-ec23-4eb3-a261-753ca1762d29,praise,1,good
+ff0ba385-73a4-418e-be81-23c9f5cae806,praise,1,good and user friendly to track office commute
+c63e2279-835f-45b2-a0ff-1ad87a8b0493,praise,1,user friendly
+67b562b0-6f13-4ef9-b08d-3a8e4225c9dd,praise,1,everything was good
+785227f7-972b-47be-96c2-4ff65bfc9096,praise,1,none
+1b98df01-c842-48d0-afc7-fb570a6c3043,routing,1,nodal point selection is not working properly
+e177b8f4-0183-46e0-907a-d8ec14f58d38,praise,1,none
+c991d142-da8a-463b-818a-41c9e7031c93,praise,1,none
+9f56e9e0-3f04-47e6-9357-e55251bd1b94,tracking_eta,2,real time bus movement is not shown
+f272e72e-5a96-4e9c-9de6-7bd76f7a8f8c,other,1,request for driver location messaging feature during drop-off
+ebce56c1-fd59-4b98-8b1a-b9b64f728382,tracking_eta,1,vehicle tracking has glitches
+d8dc5f3c-2280-45e9-9413-73085051f5c0,praise,1,none
+0abbdf56-611b-4e00-becb-08152005bf1c,tracking_eta,1,does not show distance of vehicle from destination
+f31f410e-0559-43c5-94da-11f5e7c04d6c,praise,1,none
+5a62daf7-268e-48be-9654-1eb25a041c1a,praise,1,none
+325c2248-d7bc-4c12-99f3-418462812382,praise,1,none
+2b4828e2-8a32-40af-b172-2da612d181e5,praise,1,none
+b12ee954-58f1-4417-b315-b5a0d31b161e,praise,1,none
+f958586f-7f61-401f-9293-df48d1255f3a,praise,1,none
+99d85ee8-0aca-4fc4-a606-ba85ad314e4e,praise,1,none
+2547e01a-3215-40dd-b5d2-6f7a9d5e1d31,booking_fails,1,unable to bulk book for multiple dates
+d523ec06-5531-4733-9f00-c66c3bcd95df,praise,1,none
+022de6af-27d8-43b4-964e-cd4b11caf4c1,other,1,request for in-app messaging and calls
+588c85e5-4633-4d05-88c3-e8c852183cd7,praise,1,none
+71b2ce0c-a7e1-4834-b504-0816a8449b7a,praise,1,none
+37010ec4-067c-4e71-9851-0b4c0444e2ec,praise,1,none
+4512af8c-bce5-4baf-8df4-5c4c1ae9d2b3,app_bugs_crash,1,app does not support landscape mode
+fcfcce2a-a3cf-41c2-8eb4-398fde7be20b,routing,1,does not show other passenger stops on the trip
+b253e8e9-8e29-4513-ab9f-0a696fb35ed5,praise,1,none
+48862b3e-8413-452a-a276-c04bdf5985cb,booking_fails,1,no-show option missing when unable to reschedule or cancel
+d8336d3f-1226-462d-a5a7-73948164d036,praise,1,none
+55fd351d-2f25-4143-b546-9a0eacae5e25,praise,1,none
+f9f37b9e-8755-4ae6-8c0a-719239df1284,praise,1,none
+217882b3-9ef0-4631-814f-4f605b5dc220,other,1,widgets and shortcuts not provided
+d4464508-7835-4c61-bfd6-576096436a63,other,1,dark mode not available
+48af5fa5-0c1e-4832-867b-49eda4e7b1a5,praise,1,none
+b49f4d26-d049-46e2-8dc0-7a084cd055b1,praise,1,none
+f8fb4906-13a8-45f2-ad2e-e87797900ed4,app_bugs_crash,1,completed trips and cancelled bookings still visible and prompt repeated reviews
+5b071c2b-9c8e-4a31-aee8-c91a07063b6a,praise,1,none
+d5ba8d85-009e-4e5b-ae0b-bc0a61af23ed,praise,1,none
+e5c2b449-5497-4700-8b8c-0d8c115b1e2e,app_bugs_crash,1,app is sometimes slow
+f68f1b15-ce66-4287-b29e-2aa9d22a23bf,praise,1,none
+6ffdb7ec-a9c3-46ce-9679-47ced58c676e,praise,1,none
+8886fc8c-ef31-405a-80dd-1f21905117d6,praise,1,none
+3c639ab0-6d67-46b0-8d86-a489abfa3490,praise,1,none
+93b9c342-1f16-40fe-b388-c182d0f61851,praise,1,none
+9ded0d7c-cd7d-4ac3-9e63-924bb27e92d4,praise,1,none
+4630d87f-3776-4f98-a4e1-5448146ba795,praise,1,none
+0db6a68e-4b77-4f20-91e8-7c940d40ed33,other,1,poor frontend interface
+00157530-b0a7-4d45-930a-2185877ae295,praise,1,none
+88283c98-bc3f-4bcc-b652-3e3f9a9a6ab5,praise,1,none
+57e4a362-288b-47c4-8016-3aeea47e484f,praise,1,none
+8df1e946-32c2-44d2-b72a-937142acfad7,routing,1,geolocation is one block away requiring manual driver guidance
+f3270a00-aaca-464e-ab8e-15de7baf190f,praise,1,none
+6728c9bd-98c1-427f-964d-1ffc20e46b38,praise,1,none
+79b57351-742c-4b98-a83c-c7b2da8abd34,praise,1,none
+7b84b567-581e-42a2-9d76-46649cc614ab,praise,1,none
+970a3953-222a-4aa8-88f4-f2230de9c86a,praise,1,none
+deba8c84-ea04-4f5a-8803-1fbcd9d25528,praise,1,none
+3ea1e8e9-792c-4cda-832c-acff8d74df98,praise,1,none
+f2198aba-4739-4355-8533-7712260ae800,tracking_eta,1,lag in cab location updates
+a9d0482f-1e4d-4e2d-9f24-1cc8ab1fb4b8,tracking_eta,2,app sometimes shows wrong tracking
+48b46cd4-68f7-4a3e-825f-168a59e503ae,praise,1,none
+b6059b4d-3877-4649-a36f-1f06b93838a8,praise,1,none
+a5f83024-f548-4d44-ad7d-eb1cfd148919,praise,1,none
+658c6960-bd3c-4de2-a1d1-ae5a01874752,praise,1,none
+6ebc0bf4-9ffd-4ceb-8ff1-376c56802341,praise,1,none
+360ea724-7762-4760-b868-2113e01c14bb,praise,1,none
+5b45bc3a-5007-4629-9071-6b45d3b9fd1c,praise,1,none
+be6363d8-7365-4259-b9bb-8e8e0f587930,praise,1,none
+cb475ae1-93c1-4734-b994-0e881902d41e,tracking_eta,2,worst tracking issues with no proper tracking information
+6b093c01-49e1-471b-818e-329f8deb457a,praise,1,none
+d3500c46-ff9b-4185-a30d-1f61adfff49c,praise,1,none
+3f88d6f3-a268-4b62-b1af-3eeb27d3c2a4,booking_fails,2,cancellation error showing cancellation period crossed 1.5 hours before
+c85a4847-3288-425f-b7f1-8cfbdfd18693,praise,1,none
+3c360a37-cda9-46e6-9c35-77fdee64e4b4,booking_fails,2,ride cannot be cancelled once vehicle is allotted
+3a3c0ca6-4b24-42c7-8b29-b8cbf8530b6b,praise,1,none
+230f2e1d-b42d-437d-9bfd-a89390a90518,praise,1,none
+0e1fba90-2b9a-4b74-97c0-552a3eebeb38,praise,1,none
+0faf50c3-e34f-4505-8e83-8db2dc682e64,praise,1,none
+caf19215-fed8-422e-9077-e419b14431a6,praise,1,none
+329c5e9b-b4d4-4a78-90ed-af795e111625,praise,1,none
+fa1f52a1-1cb8-4900-96ba-e5f773c35d01,praise,1,none
+6c1179b0-466a-4c21-a473-8ea02bb3ea30,tracking_eta,2,facing inaccurate cab ETA issues for past 24 hours
+97266de8-1b47-4456-9b07-bf257b269147,praise,1,none
+14844b1e-cf01-40ea-b693-d1668fcb459c,praise,1,none
+10c8d103-ba50-493c-b194-89e78027ad2b,praise,1,none
+cbdf59e4-9837-4be0-ac8d-b25e765716b6,praise,1,none
+4b570ddb-2478-4981-beb5-cf094b637199,praise,1,none
+87cc0f1a-80b3-43a3-8dd5-19526cec0b29,praise,1,none
+8d8598a8-4489-444d-b4cd-e3755c6fbe19,praise,1,none
+f77aad95-f375-4d43-9f76-72e23e7d2359,praise,1,none
+5666883f-bb61-4b0e-be62-78c54f602477,praise,1,none
+868fec41-1f8f-4f4e-bec7-4910ece14955,praise,1,none
+9930b554-d12a-4b50-bb94-2da6a6bf4e66,praise,1,none
+467334b1-6e01-4ca5-b3e5-da81a4db778a,praise,1,none
+4425dfe7-379a-4598-be4a-d4f84716e563,praise,1,none
+5d32f8bb-4595-4122-80de-1030b463cd84,praise,1,none
+5d977dbb-f6d7-4582-9485-bdf0baa27df0,other,1,user feels the app is not good
+6cf3ffb2-1400-41c2-8ca5-8f7adadc67f9,praise,1,none
+53e7c5c8-3793-4bae-b2b8-65f92e44810c,login_otp,2,sometimes does not send OTP via SMS
+7aa806ea-ff97-4ee4-895a-2e50f9f94b55,praise,1,none
+677e5ccf-da82-47ce-a10a-92b163bf0249,other,1,calling option should be available in the app
+775f84e0-9f30-4e4a-8dbb-1f56f56f1da2,other,1,request for color-coded date bookings
+f0895b7c-70ef-4a53-a998-68bc8749a872,other,1,needs more flexibility
+abe61868-6940-48cd-bcf4-2180fe76ff3a,app_bugs_crash,1,no QR shortcut and back button clears route inputs
+5e6c6419-a877-4215-b657-a90ae92f42f0,praise,1,none
+b8a4fb5b-13b6-42df-ad90-c921efbe397c,login_otp,2,OTP not received via SMS and disappears when notification closed
+b464290a-a38d-4175-a183-86867229175e,praise,1,none
+cc300596-59aa-47f7-ad66-c38fc17227fb,tracking_eta,1,map sometimes does not refresh
+3cef1a8a-9113-480b-882e-1b617483659d,praise,1,none
+fac59067-6ec1-48b5-95c7-9b35de797693,praise,1,none
+68932525-0535-4233-b8b8-ce6a8515e2c2,booking_fails,1,"cannot choose bus seats, automatically assigned"
+3b2cc439-2a6a-4de4-96b3-55c3e6cf3495,app_bugs_crash,3,app not working properly
+ee5906e6-d9c2-43ca-afd3-6e0b140d9c4d,praise,1,none
+84c88f29-36b7-4773-b6d8-5feaa7cca5ab,praise,1,none
+4eaa5a04-b31a-4bb0-a7ee-d37bca312339,app_bugs_crash,1,asks to agree to terms and conditions every time app opens
+e40bbbca-4631-4529-ae74-122b8bbe9eaa,booking_fails,1,"pickup cancellation, addition and clubbing need technical enhancement"
+fa318fbd-19b3-4f49-ac30-702eddb5b1b6,praise,1,none
+c4472fe3-5e50-4581-920e-8b7fb7b5586e,praise,1,none
+b12258d4-cff6-421a-9278-8922c0630146,routing,2,improper timings and incorrect routings
+c90c0f00-f445-44ad-b0a7-443f3a72fd08,booking_fails,2,cannot change address manually or cancel cab after allotment
+35eb9cc6-9e39-41c1-bde0-6ebff0d6f9a9,praise,1,none
+a41e6406-d04a-4952-8aff-8295fbad5161,praise,1,none
+3a32301f-ae66-4bbd-b279-ed422d3e75c3,praise,1,none
+8ec4e20f-62d0-4cd8-a5f6-cd58da422616,praise,1,none
+25c29e24-3832-4411-842b-8fb741ae64b7,praise,1,none
+2b3d9423-1036-415c-bc42-f0a674de63d4,praise,1,none
+b60783da-094d-45b3-94da-2b21618845e6,praise,1,none
+123af023-746e-4743-9d1a-48ff74de591d,praise,1,none
+7aa405a8-a9a2-4dcb-9d3d-be1738fc9e38,praise,1,none
+967a62da-d474-43d4-85c1-00cb13fee226,praise,1,none
+b69f0c15-cd2b-4f87-b9f9-6c2a1a2e514c,praise,1,none
+c679b407-29e9-473b-9076-d6fa6f1b53b6,praise,1,none
+d1e2d42b-385d-4a2e-83db-3204784732ad,praise,1,none
+0e4c9695-fb96-4ed5-93b5-56dd81a67103,praise,1,none
+22f0722e-9334-4444-a21d-438768c6de2d,praise,1,none
+00353d58-1b88-4f60-b394-f5a31acb1c33,praise,1,none
+d24f8323-e427-4ff5-b7b0-8596948f4992,praise,1,none
+5d620c40-e3fb-4f82-8b44-c086b29f5c25,praise,1,none
+9f81f8c6-fddd-429a-8180-f14b1f0cda0f,praise,1,none
+8949ce96-f6db-496b-bd22-0449dbf380b1,praise,1,none
+db057644-4c9f-421c-9259-69d70796daad,praise,1,none
+9c751bf7-37e0-4362-b7e1-8b991edba1e2,praise,1,none
+99cfceda-8269-4f2f-af89-273f575ecce0,praise,1,none
+cc515b92-8cae-47c9-b238-643641e4fe19,praise,1,none
+4cdebb26-82ee-4886-a71c-ce4363aab2e1,praise,1,none
+9398034a-f4a6-4d99-b42d-2444259b6245,praise,1,none
+50c01a3f-541a-42b2-b99e-a0561bafee42,praise,1,none
+3df3a55b-a1fc-4af8-adf4-e63494902679,praise,1,none
+33cfe3a5-99c5-49fa-8248-f437a21974cd,praise,1,none
+f4c435f1-6387-4277-9b5a-7eff7e5aac47,praise,1,none
+2d14366c-d6f4-4151-9250-dfc8f9144e34,praise,1,none
+78c68822-42c4-485b-86b2-fbf460ce6943,praise,1,none
+e3bfcf13-921c-499c-bd4b-890779f2ca6b,praise,1,none
+2fde55f2-96b1-4c8f-a235-c54233cfa499,praise,1,none
+2938f07e-bfe7-4182-9d21-85e535f98c8a,praise,1,none
+65052295-5f7b-4e4a-9099-af213b42a623,support_unresolved,1,customer service needs improvement
+ef533856-8684-4ebb-9379-4064e9d88e58,praise,1,none
+a0ff23a3-be43-4be6-b40e-cef1369b6e0d,praise,1,none
+bfada944-dc64-4156-a7fd-64ce495a3fc5,praise,1,none
+b9e15c16-71d6-4e74-a6a3-47417f638855,praise,1,none
+657c0fe1-1ad8-41bc-827c-4b9a5af0322a,praise,1,none
+3a31e3dc-ee0f-4b39-9395-692fba2cc36f,praise,1,none
+e8262153-0d13-4f9b-8f0a-da6bf70df648,praise,1,none
+e76904a7-9fa6-4745-83cf-874dfee69258,praise,1,none
+1fe7917d-466c-43ec-9a66-1c83f6c45e30,praise,1,none
+2632754e-b870-4261-8ae7-eeb464f4e28d,praise,1,none
+232da339-50ee-47fe-b46c-22c3d0624e01,praise,1,none
+ac48b90b-64d1-4288-a2aa-9d6bc27e0436,praise,1,none
+48d6607c-2bbf-4913-a311-216f822740ee,praise,1,none
+0ef84db1-2833-4bad-9c27-df00efcda17d,praise,1,none
+105572b1-f0df-4220-98b0-0f5ac2d1e1e9,praise,1,none
+cd00029b-d327-40f5-ad24-e541e7c9cd77,praise,1,none
+ddaff05c-fb9c-4971-b8c7-783330d87658,praise,1,none
+5f199944-e3fa-4d6c-be04-46f109af87ba,praise,1,none
+17366e88-d7d6-4e92-b200-bdd1dc61bdf9,praise,1,none
+e62038c9-d0ec-430c-82d3-e4665707e461,praise,1,none
+85c686ce-46aa-4098-9de5-69a5f4873015,praise,1,none
+82ffc66f-e274-4728-a453-f0f501394101,praise,1,none
+48aa6b1a-57e3-4619-a2b4-52c4d3cb2f15,praise,1,none
+5db5438f-d226-4640-a67d-b23c2b9c7901,praise,1,none
+572b77d1-28fa-4fba-a03c-082cc391b3a9,praise,1,none
+f7c67f8d-47b3-45a3-baba-0c47b6583083,praise,1,none
+cfdc9f3f-a548-4549-bc4c-74a2cfc66475,praise,1,none
+91441a2e-fcc0-4a25-a9ac-16fc16b89132,praise,1,none
+b575a8e8-dbbc-4293-91a8-e37ecb8f4f14,praise,1,none
+40cf0d44-c4cb-4732-82ae-bff144e1e0ae,praise,1,none
+7278f820-73b5-4388-a035-3561900693b9,praise,1,none
+26107cc4-79b8-495b-b310-b82710d289f0,praise,1,none
+6955dff5-62e7-454c-b24b-83889b0bdaec,praise,1,none
+4a7c7b71-e2cd-4128-a825-fbf24c69e025,praise,1,none
+23bbc27a-96e0-412b-948b-0f4c36c98031,praise,1,none
+f5c855f0-255c-481e-bf39-acabe32de556,praise,1,none
+69750db3-4a1d-48f0-b6f3-005eb5479d9f,praise,1,none
+33b1f037-2533-4196-8672-6111d8310e71,praise,1,none
+9e51a63f-ef7f-4b37-9cc2-67fbf35e8e6f,praise,1,none
+21bdfedb-d1eb-4bbf-ae2c-98b2b70bea61,praise,1,none
+756284de-fcb2-4a07-9adb-a273169dd744,praise,1,none
+66328244-4851-4075-ae64-786df769a8b2,praise,1,none
+387b4b66-dd93-4cab-95da-dfce1eb03905,praise,1,none
+8f992352-8e49-4767-8bdb-8c99fafe3a76,praise,1,none
+1f737157-c0a4-4dce-9c80-905c22684856,praise,1,none
+923edf48-44d6-4027-8741-e59cd54aace3,praise,1,none
+6e7db99e-73de-4389-9ac1-e780256dd8e3,praise,1,none
+1a862850-72f9-4724-8247-2d38863f52ff,praise,1,none
+e1ead51a-55b7-4683-bdb5-f4fe071308da,praise,1,none
+6ccadce7-d9b4-4cc6-86da-c2f50616c479,praise,1,none
+e534fd86-30af-4a5a-912b-79db544605be,praise,1,none
+9c9abc44-d389-4e47-bfa3-5acc445b4896,praise,1,none
+56fb17c5-8fe7-4304-935c-8553571c08ef,praise,1,none
+a0f4d659-21fd-436c-9d1e-91cd56886921,praise,1,none
+d1b091dd-b3c0-40b1-bdb2-b30409fe5ae9,praise,1,none
+ef6e30c6-1f5c-4e3d-b21d-fb1fba3bda46,praise,1,none
+cd7be433-5a9f-464d-881c-d7f89497f706,praise,1,none
+f85ca5c4-e091-4015-924a-1da41f229e20,praise,1,none
+9df29113-b2cf-4458-93e7-939f70a949d4,praise,1,none
+3492ad98-8e6e-4972-8b55-892823a22637,praise,1,none
+897a03ef-fbd7-41cb-88f5-5e115bef3ef9,praise,1,none
+34bb879e-e421-42d5-98a5-e07e0b7ba69d,praise,1,none
+3efc2c4e-3e4c-456c-9fa2-366aa0400864,praise,1,none
+bc6376ad-ac84-43da-b645-2055ae18d930,praise,1,none
+44573242-4c52-4763-b410-f98df03ba1a5,praise,1,none
+16f68390-6898-4cba-a2ea-78e53d280b78,notifications,2,received cab details 18 minutes late and missed the cab
+e83b5188-ec09-497c-b09e-ebfc28b97e5f,praise,1,none
+ee0f8cee-65b5-4ca7-ab0a-625d782bac4a,other,1,request to share driver contact details directly in the app
+e6ec0b1f-a1de-418e-9b77-ba3fd64b6094,praise,1,none
+38760ccf-d2bc-4b57-810b-5aae3d989c55,praise,1,none
+9acccb08-ec47-4b90-9dd3-31c0d0af9028,praise,1,none
+32f2a253-0d8e-4e38-8920-1a94c506ab30,praise,1,none
+7ac55c75-1287-4e8b-b186-d0f4c15d71d4,praise,1,none
+5944fe28-de5c-4fa2-8eb6-a015e9278bde,praise,1,none
+6dde7f56-7618-447f-8cf5-809bebf7293c,praise,1,none
+1ae6aae6-f053-47f2-8637-6e617820e73d,praise,1,none
+b94961aa-394d-4675-84c8-9e7713693a0e,praise,1,none
+13a3e451-ea96-4953-8c91-f2af8edcce84,praise,1,none
+d4f1edcc-eb94-436d-b948-55b2fa8cca50,praise,1,none
+c0e08447-6989-471a-8de5-ba92d87b9a7f,praise,1,none
+1931bbea-87a9-499f-afe4-faead6ffa6bf,praise,1,none
+f079b1f8-fa65-4954-b401-320d5cb39705,praise,1,none
+93a1c767-d1ca-4dd6-90e6-c046b725f0ac,praise,1,none
+4009ed36-40a2-4645-83f0-ccff918eb850,routing,1,wants home drop
+9faa93fc-e624-4b63-80f5-65c9f21ae076,praise,1,none
+354acf70-dfe1-49af-81f4-e4f4f31484cb,praise,1,none
+dd42dc0f-7b75-4e85-95ba-ce2ef3d0d408,praise,1,none
+2beb3fee-fbe0-4889-b009-a2f228e67159,praise,1,none
+f5d320b0-b35b-433a-9879-f42f58ae3257,praise,1,none
+01e1b0d8-8de9-4b51-ab17-d39f2a37294d,praise,1,none
+8704bb21-ff70-4327-bed8-b7944fe7a638,praise,1,none
+1fbb2b4f-1ab3-4baa-95d2-39b8319d2d62,praise,1,none
+bfcd9aaf-d377-40f9-b120-9230ac60a1c2,praise,1,none
+cbc5fb44-2296-48c8-a8b7-33a038ad005d,praise,1,none
+0ccc2eb3-ac5f-4833-9ac6-c3f89660659a,praise,1,none
+f41c6c85-fc6d-4b78-a9e4-fc296c294dbc,praise,1,none
+6137466e-3a7b-4c0c-9bb2-2a4f88faabed,praise,1,none
+d9a7ca0a-da8b-4648-90d2-2d786f321fa3,praise,1,none
+5f86f470-0d1b-4630-bca1-22fd25eec932,praise,1,none
+992dfee0-0a45-430f-b0b9-1516d2f5c7a6,praise,1,none
+bf123174-44a9-431d-b335-018cd2a28749,praise,1,none
+8b46c3ae-1323-4319-9d0c-a29f92704cf7,praise,1,none
+47354b3a-da81-45dd-bfed-131750e14818,praise,1,none
+38bb268f-bf7f-4570-b122-b0998b346abb,praise,1,none
+25b639cd-7a53-4cea-a2dc-23eb54e2503a,praise,1,none
+8678d71e-ee1c-427a-8eea-d444196c0f05,praise,1,none
+08aa5fbf-de69-4f83-b43f-0bfedd6f100c,praise,1,none
+bede1c67-3089-44db-9224-fd43e549391f,praise,1,none
+b04cabb1-145c-41d8-8e42-8c577f6a4bdb,praise,1,none
+739f5219-0382-4a2b-afec-72517e07eafe,tracking_eta,1,improve map capabilities
+cb5de3f1-1765-4dd3-8ab3-b8a6337e5893,praise,1,none
+ab7cb1b5-620f-41a8-96dd-4e3a88a8e231,praise,1,none
+2271cba4-9b44-4bc2-84f2-c8b7f16e0bf1,praise,1,none
+4e718f01-9f1d-45f7-8bd5-4c0255732bf9,praise,1,none
+27e26bbe-85ff-459f-a74b-725b52974921,praise,1,none
+d2d0dff3-8208-4bb0-b239-a075b2ec39e0,praise,1,none
+87264c01-af9d-4e30-b99b-902ba857941e,praise,1,none
+55c6b932-aeb5-4f38-89b1-563d75390969,praise,1,none
+6a43a614-3835-4efe-a9f2-378b62f3e692,praise,1,none
+e8f9b26e-8e94-4e37-89a5-fa3f72e27fe0,praise,1,none
+7dab49f9-c6fa-4403-8869-0cf2d75f974f,praise,1,none
+27fab1e7-c975-4362-b387-59c69bf7baf9,praise,1,none
+0c49740a-3265-40f9-b357-cef30391b598,praise,1,none
+9275fa77-b18e-4fc7-8c85-d989db0602e2,praise,1,none
+30ef7010-710e-4645-ba80-3abf35677658,praise,1,none
+0b2427d4-86a8-4210-88b7-ab758efd030c,praise,1,none
+11649b3b-12c7-4fb5-8732-6b496f007e79,praise,1,none
+9a6b01cf-363b-44e2-9304-e742457e194c,praise,1,none
+78aea0ab-2f86-4c7e-8446-f8fdbfd08025,praise,1,none
+3818c67c-5f6f-4aad-add9-4e905ca76f64,praise,1,none
+b8d0a121-c5a6-4475-808a-ebe941b39d3d,praise,1,none
+ec819016-7ba1-4ba2-b686-d1645bd6f0c8,praise,1,none
+e8c5a758-f102-4e7d-9151-3eec83bb628a,praise,1,none
+f63b692f-bc41-44af-83e6-d518fcbfbc08,praise,1,none
+7e816213-79c2-4b9a-8b7e-103abecf60a9,praise,1,none
+a12794f6-0eb1-45ea-86be-2087cd9fc6d0,praise,1,none
+9f81b2af-b725-4285-ac26-562e3e3c54a1,praise,1,none
+16ba762a-826c-44ff-a74e-800eea752ff8,praise,1,none
+4bf23221-cb2d-4b6f-ab2e-e1fbd8f4f741,praise,1,none
+05b6ae55-4d4f-402b-a209-656537448f01,praise,1,none
+a1bccaeb-6bff-4ac3-9b55-c0e0122449cc,praise,1,none
+aaa829f4-ebb2-4a30-bfb3-377989bcc949,praise,1,none
+384aec38-34e0-472a-98ae-e161f3ebd654,praise,1,none
+c9c45a3f-8fc6-454a-b55a-5bee30d97711,praise,1,none
+34f4e9e2-9dcb-401d-b60a-27d598066eb4,praise,1,none
+4a66b5ca-966c-4c82-93c4-78b8c9d9053a,praise,1,none
+38ab0372-e9b0-45db-8865-5932228cdda6,praise,1,none
+5451d1f8-9c0f-4e0d-9628-7c34eab10fe4,praise,1,none
+1bf85d64-0250-4804-a3f1-f5de4016ff3c,praise,1,none
+cdaa8e55-5833-4e1b-884a-e1de96de5463,praise,1,none
+7fc36aea-c180-41bc-9510-b173f442d609,praise,1,none
+09befc0d-6d36-41d2-8c2e-157c47a06756,praise,1,none
+0521a132-adde-46e0-ada7-34a45f021d85,praise,1,none
+4141c0ed-9c45-484d-a330-018bfde81b9e,praise,1,none
+2c37f903-4d47-47a6-ad0f-339db9c29736,login_otp,1,request to use same static OTP for every ride
+95d1ac50-d57a-420c-bee4-ccb8c9a088a6,praise,1,none
+6e8b9111-d2db-49e0-8019-859ca6edd466,praise,1,none
+51472cc1-4a97-4c8d-af3c-273bf3da067a,praise,1,none
+15909397-7625-43db-af8c-47145b511301,praise,1,none
+b8780dea-18a7-4e9d-8b56-905d8ac0a271,praise,1,none
+30791cbb-646a-4759-a1b0-c4ac29b44729,praise,1,none
+b4ba39a9-91ab-4f02-87c5-af566db75944,praise,1,none
+0ff65e2f-31cd-4c76-b078-02622d004025,praise,1,none
+2ead46d6-6909-4d70-a78f-e668204f3333,praise,1,none
+ac01f169-d03c-4c1c-995e-8255fa7e279f,praise,1,none
+f4c19c4b-fce5-4a9e-8668-720a9e938297,praise,1,none
+ad9b2fff-dd26-4ddd-b8ea-167e64e5ef07,praise,1,none
+ecb666b7-209b-4ebc-9184-307ece57942d,praise,1,none
+53cd17d0-8a5f-4a95-91d9-461df920823d,praise,1,none
+4f71b8e0-983f-4f70-b363-054b4e3302f4,praise,1,none
+ef278146-e53d-4a29-8e32-4f10062273f3,praise,1,none
+b5ddf8e1-a8c8-40f0-919f-45bf49b0ed26,praise,1,none
+8b083184-6796-48f7-b6f5-d75b5140b218,praise,1,none
+24adc391-38aa-4ea0-aef2-e304ab9e2aba,praise,1,none
+f4170b5a-4bef-4ada-85f8-8e8cf2230a40,praise,1,none
+16f02cb3-96cd-409b-ab91-d1bcbe6617e7,praise,1,none
+42ecebbf-ae44-49e4-87ee-711212b692f6,praise,1,none
+d135107f-7f33-4fda-ae1f-30d22a5fdf3c,praise,1,none
+7d4419f2-29de-4405-aed3-4d58155b52d8,praise,1,none
+9bbf13d3-22fc-4a92-afac-cd5b210ea7d5,praise,1,none
+722a6728-4657-4f6d-bba0-085f63f2faa7,praise,1,none
+1c00ef7d-0246-45bb-bdcb-4679d5c6c12a,praise,1,none
+0f8f574f-dd25-47d1-90a2-51d06f7ef394,praise,1,none
+2506391f-7cd9-4f87-9c8f-263181f3aa0c,praise,1,none
+167a09b5-e4e1-4df5-a11f-f2201abc8f10,praise,1,none
+efb8a4fa-842b-480b-aed5-89b303f3ef47,praise,1,none
+4bca242d-fdde-4cc9-b682-ce699dea6510,praise,1,none
+57c384b0-3a5c-42ef-b5bf-a9fc2ecc08e7,praise,1,none
+a6b3aa52-a479-4059-8c7f-9f5d8b1ca277,praise,1,none
+95c83c36-d441-4369-87d7-4a07c5466d73,praise,1,none
+d883b75d-e31b-41ff-8c54-2c42d87834c3,praise,1,none
+8aa00331-6184-43f2-946c-d215a86a9935,praise,1,none
+7e134ca7-9e6b-491e-bacb-154892273063,praise,1,none
+f6ef7454-434a-49c4-b39e-794086d1ce32,praise,1,none
+459c2b5c-8a80-43d0-8166-c401a7f9166f,praise,1,none
+54852d81-d8f6-4b20-b8c9-cd8d41d688e0,praise,1,none
+aa91dfc2-f34e-446b-93be-3f99951308f3,praise,1,none
+19feec8b-6d14-436e-a168-b7336d67dc56,praise,1,none
+aee380be-bd01-41fb-ae8c-3d4908dc3dcc,praise,1,none
+1c9eebc2-aaba-4853-89a3-d530a05da31f,praise,1,none
+c83e4afb-65a0-4218-8357-47227dee066b,praise,1,none
+269cc2fe-4a6b-49bd-9ba3-025aaf180bf0,praise,1,none
+1981b7cb-3574-4029-9ae0-d8eb171ffe77,praise,1,none
+59338add-bb98-410a-ad6b-1d5351621197,praise,1,none
+1b9ca379-1151-453e-9bcc-7ab2c7d71942,praise,1,none
+6bea6150-7587-4802-bc28-8acc7c22dd0b,praise,1,none
+aef2618d-4441-4bb9-8922-3bbd71eedfb4,praise,1,none
+2663a4d5-6aa2-40bb-b1a5-806f539603e1,praise,1,none
+2ef701f5-31b9-41b4-9c5b-7b2eb2a33c1a,praise,1,none
+6fe320c3-a14b-4af1-a117-16457e3b9663,praise,1,none
+3c480164-ac8b-4f42-b9af-6d1df2487e8e,praise,1,none
+45af0818-bdbf-4017-b3e9-225a458496b7,praise,1,none
+ff123522-9869-438b-9889-94f5ee231ccb,praise,1,none
+bae78695-95cd-480b-a315-01bcc6524c26,praise,1,none
+925af07c-0923-45ce-8afc-ecda22d671ed,praise,1,none
+983f081e-ec5a-4e7c-b050-bedfbcc2e48f,other,1,User Interface UI
+dd530b0f-9eb0-40be-b8c3-9fd35d52414a,praise,1,none
+b898ac55-19a4-4f83-b094-5f49a9dc83ea,praise,1,none
+dde5170c-e9f1-4455-862b-d33c4c127ff0,praise,1,none
+dc1b0376-edc0-419b-bf2d-dcc89f1e815d,praise,1,none
+5c6ddb08-3e59-40e4-9482-c8a094c399c4,praise,1,none
+d7b98d0e-3430-4c9e-9a8f-ba30357e0e0a,praise,1,none
+7875f551-81f6-496b-a949-27e748feec86,praise,1,none
+521c77aa-acc8-42f4-af2a-9b5118c3ae93,praise,1,none
+ac6ceb94-67d2-416f-a6bf-0916e2482cb4,praise,1,none
+7faa30e6-c69e-483c-8766-8d759bd53fe5,praise,1,none
+0688130f-bfe2-4db9-ae4c-13ac6111f0f4,praise,1,none
+5143de9f-66c1-4b7f-88bb-3ecaf22bd6fc,praise,1,none
+12764437-b5ca-4a27-b589-f1f38f56440d,praise,1,none
+8beffa9a-233c-4e6f-825c-4926cdfca04d,praise,1,none
+1eec0df9-30ca-4ba9-a889-84a32117c1de,praise,1,none
+c55afc2f-07e9-45d9-a2cb-ff7201a23901,praise,1,none
+202f1b93-ce68-4f3a-bf6b-422498d58cc4,praise,1,none
+1798ae4a-c03b-4ff9-9746-32fe728ed82c,praise,1,none
+4dec3d85-f42f-4433-a6b8-bf178595e609,praise,1,none
+3c55a1ff-44b0-436c-b5a2-b235bbc41570,praise,1,none
+57f98a48-8c72-4476-856d-988d0299498a,praise,1,none
+f1d06608-c032-42e4-a583-a0816b9bd0ea,praise,1,none
+704cfdc0-3299-4c3d-8192-3d4f7cf4cc9d,praise,1,none
+60147d65-a9c0-42e9-b6db-61028c4cbf04,praise,1,none
+156a8494-7bc1-46c7-8742-79b10c8379d8,praise,1,none
+ad2905c3-e322-4291-9762-246cdf714635,praise,1,none
+1ed14352-a332-4230-9066-91dfd24654d8,praise,1,none
+411bc6e3-c98d-4fbb-8e3b-1caf2ebc86c1,praise,1,none
+64167d30-760f-4a50-b8b4-70baf76222d1,praise,1,none
+5afbff0b-9677-40d0-a486-92fb31248663,routing,1,need to improve routing

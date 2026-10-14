@@ -79,6 +79,26 @@ source .venv/bin/activate        # macOS / Linux
 pip install -r requirements.txt
 ```
 
+> [!IMPORTANT]
+> **Always activate the venv** before running any command (`python`, `streamlit`, `pytest`).
+> Using the system or Anaconda Python will cause `ModuleNotFoundError` since dependencies are installed inside `.venv`.
+>
+> ```bash
+> # ✅ Correct — activate first
+> source .venv/bin/activate
+> python run.py
+>
+> # ✅ Also correct — call the venv binary directly
+> .venv/bin/python run.py
+>
+> # ❌ Wrong — uses system Python, missing packages
+> python run.py
+> ```
+
+> [!WARNING]
+> If you move or rename the project folder after creating the venv, the venv will break
+> (hard-coded paths). Recreate it with `python3 -m venv .venv` and reinstall dependencies.
+
 ### 3. Set up environment variables
 
 Create a `.env` file in the project root (it's git-ignored):
@@ -96,6 +116,7 @@ echo "GEMINI_API_KEY=<your-key>" > .env
 ### 4. Run the full pipeline
 
 ```bash
+source .venv/bin/activate
 python run.py
 ```
 
@@ -115,6 +136,7 @@ This will:
 ### 5. Launch the Streamlit dashboard
 
 ```bash
+source .venv/bin/activate
 streamlit run app.py
 ```
 
@@ -129,6 +151,7 @@ The dashboard provides four tabs:
 ### 6. Run tests
 
 ```bash
+source .venv/bin/activate
 pytest -q
 ```
 
@@ -176,5 +199,4 @@ python make_pdf.py report/recommendations.md report/out.pdf  # custom paths
 ---
 
 ## License
-
 Internal project — MoveInSync.

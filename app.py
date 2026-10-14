@@ -37,10 +37,10 @@ with overview:
     st.subheader("Average stars by month")
     st.line_chart(m, x="month", y="mean_stars", x_label="Month", y_label="Avg stars")
     st.subheader("Reviews per month")
-    st.bar_chart(m, x="month", y="reviews", x_label="Month", y_label="Reviews", sort=False)
+    st.bar_chart(m, x="month", y="reviews", x_label="Month", y_label="Reviews")
     st.subheader("Star mix in range")
     mix = r["score"].value_counts().reindex(range(1, 6), fill_value=0).rename_axis("stars").reset_index(name="reviews")
-    st.bar_chart(mix, x="stars", y="reviews", x_label="Stars", y_label="Reviews", sort=False)
+    st.bar_chart(mix, x="stars", y="reviews", x_label="Stars", y_label="Reviews")
 
 with themes_tab:
     if tags.empty:
@@ -49,8 +49,9 @@ with themes_tab:
         t = metrics.theme_table(r, tags, last)
         st.caption("Impact = 1–2★ reviews weighted by recency (half-life 90 days). "
                    "app = fixable in the app · ops = cab/driver/service.")
-        st.bar_chart(t, x="theme", y="impact", x_label="Impact", y_label="Theme",
-                     horizontal=True, sort="-impact")
+        t_sorted = t.sort_values("impact", ascending=True)
+        st.bar_chart(t_sorted, x="theme", y="impact", x_label="Impact", y_label="Theme",
+                     horizontal=True)
         st.dataframe(t, hide_index=True)
         for theme in t[t["kind"] != "-"]["theme"].head(5):
             with st.expander(f"{theme} — {THEMES[theme]}"):
@@ -63,7 +64,7 @@ with versions_tab:
         st.info("Not enough reviews per app version in this range (min 30).")
     else:
         st.caption("Versions in release order (first review seen). Only versions with ≥30 reviews.")
-        st.bar_chart(v, x="version", y="mean_stars", x_label="App version", y_label="Avg stars", sort=False)
+        st.bar_chart(v, x="version", y="mean_stars", x_label="App version", y_label="Avg stars")
         st.dataframe(v, hide_index=True)
 
 with replies_tab:
